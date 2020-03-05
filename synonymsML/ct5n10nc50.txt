@@ -1,0 +1,4086 @@
+['5', '10', '50', []]
+10 50
+nombre de mots dans centroid  1  :  329
+nombre de mots dans centroid  2  :  319
+nombre de mots dans centroid  3  :  298
+nombre de mots dans centroid  4  :  308
+nombre de mots dans centroid  5  :  326
+nombre de mots dans centroid  6  :  317
+nombre de mots dans centroid  7  :  303
+nombre de mots dans centroid  8  :  297
+nombre de mots dans centroid  9  :  319
+nombre de mots dans centroid  10  :  260
+nombre de mots dans centroid  11  :  321
+nombre de mots dans centroid  12  :  319
+nombre de mots dans centroid  13  :  314
+nombre de mots dans centroid  14  :  334
+nombre de mots dans centroid  15  :  336
+nombre de mots dans centroid  16  :  325
+nombre de mots dans centroid  17  :  346
+nombre de mots dans centroid  18  :  304
+nombre de mots dans centroid  19  :  336
+nombre de mots dans centroid  20  :  359
+nombre de mots dans centroid  21  :  334
+nombre de mots dans centroid  22  :  319
+nombre de mots dans centroid  23  :  316
+nombre de mots dans centroid  24  :  334
+nombre de mots dans centroid  25  :  343
+nombre de mots dans centroid  26  :  323
+nombre de mots dans centroid  27  :  338
+nombre de mots dans centroid  28  :  339
+nombre de mots dans centroid  29  :  346
+nombre de mots dans centroid  30  :  304
+nombre de mots dans centroid  31  :  338
+nombre de mots dans centroid  32  :  322
+nombre de mots dans centroid  33  :  328
+nombre de mots dans centroid  34  :  313
+nombre de mots dans centroid  35  :  324
+nombre de mots dans centroid  36  :  329
+nombre de mots dans centroid  37  :  316
+nombre de mots dans centroid  38  :  344
+nombre de mots dans centroid  39  :  300
+nombre de mots dans centroid  40  :  316
+nombre de mots dans centroid  41  :  328
+nombre de mots dans centroid  42  :  325
+nombre de mots dans centroid  43  :  302
+nombre de mots dans centroid  44  :  296
+nombre de mots dans centroid  45  :  354
+nombre de mots dans centroid  46  :  309
+nombre de mots dans centroid  47  :  312
+nombre de mots dans centroid  48  :  310
+nombre de mots dans centroid  49  :  310
+nombre de mots dans centroid  50  :  300
+----------------------------------------------------------------
+25.113964796066284 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 1
+15713 dans cette iteration
+nombres de points dans centroid  1 :  329
+nombres de points dans centroid  2 :  319
+nombres de points dans centroid  3 :  298
+nombres de points dans centroid  4 :  308
+nombres de points dans centroid  5 :  326
+nombres de points dans centroid  6 :  317
+nombres de points dans centroid  7 :  303
+nombres de points dans centroid  8 :  297
+nombres de points dans centroid  9 :  319
+nombres de points dans centroid  10 :  260
+nombres de points dans centroid  11 :  321
+nombres de points dans centroid  12 :  319
+nombres de points dans centroid  13 :  314
+nombres de points dans centroid  14 :  334
+nombres de points dans centroid  15 :  336
+nombres de points dans centroid  16 :  325
+nombres de points dans centroid  17 :  346
+nombres de points dans centroid  18 :  304
+nombres de points dans centroid  19 :  336
+nombres de points dans centroid  20 :  359
+nombres de points dans centroid  21 :  334
+nombres de points dans centroid  22 :  319
+nombres de points dans centroid  23 :  316
+nombres de points dans centroid  24 :  334
+nombres de points dans centroid  25 :  343
+nombres de points dans centroid  26 :  323
+nombres de points dans centroid  27 :  338
+nombres de points dans centroid  28 :  339
+nombres de points dans centroid  29 :  346
+nombres de points dans centroid  30 :  304
+nombres de points dans centroid  31 :  338
+nombres de points dans centroid  32 :  322
+nombres de points dans centroid  33 :  328
+nombres de points dans centroid  34 :  313
+nombres de points dans centroid  35 :  324
+nombres de points dans centroid  36 :  329
+nombres de points dans centroid  37 :  316
+nombres de points dans centroid  38 :  344
+nombres de points dans centroid  39 :  300
+nombres de points dans centroid  40 :  316
+nombres de points dans centroid  41 :  328
+nombres de points dans centroid  42 :  325
+nombres de points dans centroid  43 :  302
+nombres de points dans centroid  44 :  296
+nombres de points dans centroid  45 :  354
+nombres de points dans centroid  46 :  309
+nombres de points dans centroid  47 :  312
+nombres de points dans centroid  48 :  310
+nombres de points dans centroid  49 :  310
+nombres de points dans centroid  50 :  300
+24.921972513198853 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 2
+15693 dans cette iteration
+nombres de points dans centroid  1 :  39
+nombres de points dans centroid  2 :  61
+nombres de points dans centroid  3 :  26
+nombres de points dans centroid  4 :  151
+nombres de points dans centroid  5 :  112
+nombres de points dans centroid  6 :  44
+nombres de points dans centroid  7 :  58
+nombres de points dans centroid  8 :  31
+nombres de points dans centroid  9 :  67
+nombres de points dans centroid  10 :  28
+nombres de points dans centroid  11 :  21
+nombres de points dans centroid  12 :  79
+nombres de points dans centroid  13 :  180
+nombres de points dans centroid  14 :  105
+nombres de points dans centroid  15 :  164
+nombres de points dans centroid  16 :  92
+nombres de points dans centroid  17 :  104
+nombres de points dans centroid  18 :  1714
+nombres de points dans centroid  19 :  90
+nombres de points dans centroid  20 :  91
+nombres de points dans centroid  21 :  68
+nombres de points dans centroid  22 :  82
+nombres de points dans centroid  23 :  30
+nombres de points dans centroid  24 :  18
+nombres de points dans centroid  25 :  15
+nombres de points dans centroid  26 :  254
+nombres de points dans centroid  27 :  95
+nombres de points dans centroid  28 :  13
+nombres de points dans centroid  29 :  46
+nombres de points dans centroid  30 :  86
+nombres de points dans centroid  31 :  28
+nombres de points dans centroid  32 :  31
+nombres de points dans centroid  33 :  34
+nombres de points dans centroid  34 :  39
+nombres de points dans centroid  35 :  10680
+nombres de points dans centroid  36 :  29
+nombres de points dans centroid  37 :  148
+nombres de points dans centroid  38 :  16
+nombres de points dans centroid  39 :  561
+nombres de points dans centroid  40 :  33
+nombres de points dans centroid  41 :  37
+nombres de points dans centroid  42 :  62
+nombres de points dans centroid  43 :  11
+nombres de points dans centroid  44 :  16
+nombres de points dans centroid  45 :  11
+nombres de points dans centroid  46 :  34
+nombres de points dans centroid  47 :  116
+nombres de points dans centroid  48 :  29
+nombres de points dans centroid  49 :  6
+nombres de points dans centroid  50 :  157
+23.777053594589233 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 3
+3392 dans cette iteration
+nombres de points dans centroid  1 :  56
+nombres de points dans centroid  2 :  54
+nombres de points dans centroid  3 :  44
+nombres de points dans centroid  4 :  245
+nombres de points dans centroid  5 :  166
+nombres de points dans centroid  6 :  75
+nombres de points dans centroid  7 :  157
+nombres de points dans centroid  8 :  36
+nombres de points dans centroid  9 :  99
+nombres de points dans centroid  10 :  38
+nombres de points dans centroid  11 :  49
+nombres de points dans centroid  12 :  57
+nombres de points dans centroid  13 :  161
+nombres de points dans centroid  14 :  71
+nombres de points dans centroid  15 :  147
+nombres de points dans centroid  16 :  115
+nombres de points dans centroid  17 :  230
+nombres de points dans centroid  18 :  2539
+nombres de points dans centroid  19 :  76
+nombres de points dans centroid  20 :  92
+nombres de points dans centroid  21 :  137
+nombres de points dans centroid  22 :  33
+nombres de points dans centroid  23 :  35
+nombres de points dans centroid  24 :  39
+nombres de points dans centroid  25 :  83
+nombres de points dans centroid  26 :  210
+nombres de points dans centroid  27 :  193
+nombres de points dans centroid  28 :  21
+nombres de points dans centroid  29 :  65
+nombres de points dans centroid  30 :  76
+nombres de points dans centroid  31 :  13
+nombres de points dans centroid  32 :  23
+nombres de points dans centroid  33 :  81
+nombres de points dans centroid  34 :  13
+nombres de points dans centroid  35 :  9221
+nombres de points dans centroid  36 :  47
+nombres de points dans centroid  37 :  237
+nombres de points dans centroid  38 :  27
+nombres de points dans centroid  39 :  139
+nombres de points dans centroid  40 :  46
+nombres de points dans centroid  41 :  108
+nombres de points dans centroid  42 :  38
+nombres de points dans centroid  43 :  36
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  25
+nombres de points dans centroid  46 :  68
+nombres de points dans centroid  47 :  227
+nombres de points dans centroid  48 :  52
+nombres de points dans centroid  49 :  16
+nombres de points dans centroid  50 :  221
+24.755048990249634 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 4
+1473 dans cette iteration
+nombres de points dans centroid  1 :  68
+nombres de points dans centroid  2 :  55
+nombres de points dans centroid  3 :  54
+nombres de points dans centroid  4 :  303
+nombres de points dans centroid  5 :  93
+nombres de points dans centroid  6 :  65
+nombres de points dans centroid  7 :  234
+nombres de points dans centroid  8 :  42
+nombres de points dans centroid  9 :  148
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  73
+nombres de points dans centroid  12 :  55
+nombres de points dans centroid  13 :  178
+nombres de points dans centroid  14 :  125
+nombres de points dans centroid  15 :  99
+nombres de points dans centroid  16 :  150
+nombres de points dans centroid  17 :  277
+nombres de points dans centroid  18 :  2407
+nombres de points dans centroid  19 :  41
+nombres de points dans centroid  20 :  62
+nombres de points dans centroid  21 :  173
+nombres de points dans centroid  22 :  14
+nombres de points dans centroid  23 :  37
+nombres de points dans centroid  24 :  53
+nombres de points dans centroid  25 :  129
+nombres de points dans centroid  26 :  191
+nombres de points dans centroid  27 :  256
+nombres de points dans centroid  28 :  9
+nombres de points dans centroid  29 :  52
+nombres de points dans centroid  30 :  79
+nombres de points dans centroid  31 :  28
+nombres de points dans centroid  32 :  14
+nombres de points dans centroid  33 :  63
+nombres de points dans centroid  34 :  5
+nombres de points dans centroid  35 :  9029
+nombres de points dans centroid  36 :  46
+nombres de points dans centroid  37 :  235
+nombres de points dans centroid  38 :  24
+nombres de points dans centroid  39 :  65
+nombres de points dans centroid  40 :  50
+nombres de points dans centroid  41 :  203
+nombres de points dans centroid  42 :  36
+nombres de points dans centroid  43 :  42
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  35
+nombres de points dans centroid  46 :  178
+nombres de points dans centroid  47 :  137
+nombres de points dans centroid  48 :  79
+nombres de points dans centroid  49 :  14
+nombres de points dans centroid  50 :  181
+24.299547910690308 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 5
+995 dans cette iteration
+nombres de points dans centroid  1 :  53
+nombres de points dans centroid  2 :  44
+nombres de points dans centroid  3 :  59
+nombres de points dans centroid  4 :  289
+nombres de points dans centroid  5 :  74
+nombres de points dans centroid  6 :  60
+nombres de points dans centroid  7 :  267
+nombres de points dans centroid  8 :  43
+nombres de points dans centroid  9 :  190
+nombres de points dans centroid  10 :  90
+nombres de points dans centroid  11 :  88
+nombres de points dans centroid  12 :  50
+nombres de points dans centroid  13 :  186
+nombres de points dans centroid  14 :  107
+nombres de points dans centroid  15 :  81
+nombres de points dans centroid  16 :  166
+nombres de points dans centroid  17 :  319
+nombres de points dans centroid  18 :  2349
+nombres de points dans centroid  19 :  24
+nombres de points dans centroid  20 :  49
+nombres de points dans centroid  21 :  158
+nombres de points dans centroid  22 :  6
+nombres de points dans centroid  23 :  40
+nombres de points dans centroid  24 :  48
+nombres de points dans centroid  25 :  156
+nombres de points dans centroid  26 :  189
+nombres de points dans centroid  27 :  269
+nombres de points dans centroid  28 :  3
+nombres de points dans centroid  29 :  31
+nombres de points dans centroid  30 :  84
+nombres de points dans centroid  31 :  50
+nombres de points dans centroid  32 :  12
+nombres de points dans centroid  33 :  48
+nombres de points dans centroid  34 :  4
+nombres de points dans centroid  35 :  8943
+nombres de points dans centroid  36 :  52
+nombres de points dans centroid  37 :  218
+nombres de points dans centroid  38 :  20
+nombres de points dans centroid  39 :  47
+nombres de points dans centroid  40 :  42
+nombres de points dans centroid  41 :  266
+nombres de points dans centroid  42 :  22
+nombres de points dans centroid  43 :  48
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  39
+nombres de points dans centroid  46 :  275
+nombres de points dans centroid  47 :  100
+nombres de points dans centroid  48 :  105
+nombres de points dans centroid  49 :  13
+nombres de points dans centroid  50 :  161
+24.504034280776978 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 6
+911 dans cette iteration
+nombres de points dans centroid  1 :  40
+nombres de points dans centroid  2 :  34
+nombres de points dans centroid  3 :  59
+nombres de points dans centroid  4 :  222
+nombres de points dans centroid  5 :  69
+nombres de points dans centroid  6 :  59
+nombres de points dans centroid  7 :  317
+nombres de points dans centroid  8 :  50
+nombres de points dans centroid  9 :  208
+nombres de points dans centroid  10 :  121
+nombres de points dans centroid  11 :  97
+nombres de points dans centroid  12 :  46
+nombres de points dans centroid  13 :  186
+nombres de points dans centroid  14 :  70
+nombres de points dans centroid  15 :  67
+nombres de points dans centroid  16 :  178
+nombres de points dans centroid  17 :  371
+nombres de points dans centroid  18 :  2323
+nombres de points dans centroid  19 :  19
+nombres de points dans centroid  20 :  34
+nombres de points dans centroid  21 :  134
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  39
+nombres de points dans centroid  24 :  45
+nombres de points dans centroid  25 :  156
+nombres de points dans centroid  26 :  194
+nombres de points dans centroid  27 :  281
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  26
+nombres de points dans centroid  30 :  97
+nombres de points dans centroid  31 :  65
+nombres de points dans centroid  32 :  8
+nombres de points dans centroid  33 :  40
+nombres de points dans centroid  34 :  3
+nombres de points dans centroid  35 :  8903
+nombres de points dans centroid  36 :  37
+nombres de points dans centroid  37 :  212
+nombres de points dans centroid  38 :  6
+nombres de points dans centroid  39 :  39
+nombres de points dans centroid  40 :  35
+nombres de points dans centroid  41 :  307
+nombres de points dans centroid  42 :  14
+nombres de points dans centroid  43 :  50
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  49
+nombres de points dans centroid  46 :  370
+nombres de points dans centroid  47 :  85
+nombres de points dans centroid  48 :  130
+nombres de points dans centroid  49 :  12
+nombres de points dans centroid  50 :  125
+25.053786993026733 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 7
+638 dans cette iteration
+nombres de points dans centroid  1 :  28
+nombres de points dans centroid  2 :  24
+nombres de points dans centroid  3 :  60
+nombres de points dans centroid  4 :  176
+nombres de points dans centroid  5 :  72
+nombres de points dans centroid  6 :  51
+nombres de points dans centroid  7 :  360
+nombres de points dans centroid  8 :  44
+nombres de points dans centroid  9 :  198
+nombres de points dans centroid  10 :  119
+nombres de points dans centroid  11 :  96
+nombres de points dans centroid  12 :  45
+nombres de points dans centroid  13 :  190
+nombres de points dans centroid  14 :  52
+nombres de points dans centroid  15 :  63
+nombres de points dans centroid  16 :  193
+nombres de points dans centroid  17 :  410
+nombres de points dans centroid  18 :  2350
+nombres de points dans centroid  19 :  16
+nombres de points dans centroid  20 :  27
+nombres de points dans centroid  21 :  139
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  39
+nombres de points dans centroid  24 :  36
+nombres de points dans centroid  25 :  122
+nombres de points dans centroid  26 :  195
+nombres de points dans centroid  27 :  309
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  19
+nombres de points dans centroid  30 :  107
+nombres de points dans centroid  31 :  63
+nombres de points dans centroid  32 :  4
+nombres de points dans centroid  33 :  30
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  8903
+nombres de points dans centroid  36 :  35
+nombres de points dans centroid  37 :  225
+nombres de points dans centroid  38 :  3
+nombres de points dans centroid  39 :  36
+nombres de points dans centroid  40 :  24
+nombres de points dans centroid  41 :  326
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  39
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  51
+nombres de points dans centroid  46 :  417
+nombres de points dans centroid  47 :  69
+nombres de points dans centroid  48 :  138
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  106
+25.630781888961792 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 8
+647 dans cette iteration
+nombres de points dans centroid  1 :  23
+nombres de points dans centroid  2 :  25
+nombres de points dans centroid  3 :  61
+nombres de points dans centroid  4 :  137
+nombres de points dans centroid  5 :  67
+nombres de points dans centroid  6 :  37
+nombres de points dans centroid  7 :  397
+nombres de points dans centroid  8 :  39
+nombres de points dans centroid  9 :  191
+nombres de points dans centroid  10 :  105
+nombres de points dans centroid  11 :  88
+nombres de points dans centroid  12 :  34
+nombres de points dans centroid  13 :  176
+nombres de points dans centroid  14 :  36
+nombres de points dans centroid  15 :  65
+nombres de points dans centroid  16 :  185
+nombres de points dans centroid  17 :  488
+nombres de points dans centroid  18 :  2364
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  20
+nombres de points dans centroid  21 :  158
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  41
+nombres de points dans centroid  24 :  30
+nombres de points dans centroid  25 :  98
+nombres de points dans centroid  26 :  164
+nombres de points dans centroid  27 :  307
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  16
+nombres de points dans centroid  30 :  99
+nombres de points dans centroid  31 :  63
+nombres de points dans centroid  32 :  2
+nombres de points dans centroid  33 :  26
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  8989
+nombres de points dans centroid  36 :  28
+nombres de points dans centroid  37 :  240
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  29
+nombres de points dans centroid  40 :  17
+nombres de points dans centroid  41 :  353
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  30
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  69
+nombres de points dans centroid  46 :  415
+nombres de points dans centroid  47 :  63
+nombres de points dans centroid  48 :  130
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  89
+24.96744179725647 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 9
+715 dans cette iteration
+nombres de points dans centroid  1 :  21
+nombres de points dans centroid  2 :  19
+nombres de points dans centroid  3 :  60
+nombres de points dans centroid  4 :  115
+nombres de points dans centroid  5 :  52
+nombres de points dans centroid  6 :  28
+nombres de points dans centroid  7 :  416
+nombres de points dans centroid  8 :  26
+nombres de points dans centroid  9 :  199
+nombres de points dans centroid  10 :  98
+nombres de points dans centroid  11 :  69
+nombres de points dans centroid  12 :  25
+nombres de points dans centroid  13 :  134
+nombres de points dans centroid  14 :  29
+nombres de points dans centroid  15 :  57
+nombres de points dans centroid  16 :  158
+nombres de points dans centroid  17 :  604
+nombres de points dans centroid  18 :  2413
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  21
+nombres de points dans centroid  21 :  197
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  30
+nombres de points dans centroid  24 :  21
+nombres de points dans centroid  25 :  71
+nombres de points dans centroid  26 :  126
+nombres de points dans centroid  27 :  292
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  15
+nombres de points dans centroid  30 :  84
+nombres de points dans centroid  31 :  74
+nombres de points dans centroid  32 :  3
+nombres de points dans centroid  33 :  26
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9080
+nombres de points dans centroid  36 :  27
+nombres de points dans centroid  37 :  253
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  26
+nombres de points dans centroid  40 :  16
+nombres de points dans centroid  41 :  371
+nombres de points dans centroid  42 :  8
+nombres de points dans centroid  43 :  30
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  79
+nombres de points dans centroid  46 :  373
+nombres de points dans centroid  47 :  60
+nombres de points dans centroid  48 :  116
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  81
+22.529242038726807 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 10
+745 dans cette iteration
+nombres de points dans centroid  1 :  15
+nombres de points dans centroid  2 :  19
+nombres de points dans centroid  3 :  65
+nombres de points dans centroid  4 :  98
+nombres de points dans centroid  5 :  45
+nombres de points dans centroid  6 :  22
+nombres de points dans centroid  7 :  428
+nombres de points dans centroid  8 :  19
+nombres de points dans centroid  9 :  189
+nombres de points dans centroid  10 :  98
+nombres de points dans centroid  11 :  59
+nombres de points dans centroid  12 :  21
+nombres de points dans centroid  13 :  119
+nombres de points dans centroid  14 :  20
+nombres de points dans centroid  15 :  58
+nombres de points dans centroid  16 :  142
+nombres de points dans centroid  17 :  736
+nombres de points dans centroid  18 :  2475
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  14
+nombres de points dans centroid  21 :  236
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  33
+nombres de points dans centroid  24 :  14
+nombres de points dans centroid  25 :  60
+nombres de points dans centroid  26 :  100
+nombres de points dans centroid  27 :  270
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  14
+nombres de points dans centroid  30 :  75
+nombres de points dans centroid  31 :  69
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  21
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9115
+nombres de points dans centroid  36 :  27
+nombres de points dans centroid  37 :  274
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  24
+nombres de points dans centroid  40 :  9
+nombres de points dans centroid  41 :  362
+nombres de points dans centroid  42 :  8
+nombres de points dans centroid  43 :  25
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  77
+nombres de points dans centroid  46 :  324
+nombres de points dans centroid  47 :  54
+nombres de points dans centroid  48 :  102
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  67
+22.15606451034546 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 11
+687 dans cette iteration
+nombres de points dans centroid  1 :  12
+nombres de points dans centroid  2 :  18
+nombres de points dans centroid  3 :  71
+nombres de points dans centroid  4 :  80
+nombres de points dans centroid  5 :  38
+nombres de points dans centroid  6 :  19
+nombres de points dans centroid  7 :  428
+nombres de points dans centroid  8 :  14
+nombres de points dans centroid  9 :  185
+nombres de points dans centroid  10 :  98
+nombres de points dans centroid  11 :  47
+nombres de points dans centroid  12 :  18
+nombres de points dans centroid  13 :  102
+nombres de points dans centroid  14 :  20
+nombres de points dans centroid  15 :  50
+nombres de points dans centroid  16 :  122
+nombres de points dans centroid  17 :  847
+nombres de points dans centroid  18 :  2566
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  12
+nombres de points dans centroid  21 :  272
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  22
+nombres de points dans centroid  24 :  14
+nombres de points dans centroid  25 :  54
+nombres de points dans centroid  26 :  66
+nombres de points dans centroid  27 :  242
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  14
+nombres de points dans centroid  30 :  63
+nombres de points dans centroid  31 :  71
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  15
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9115
+nombres de points dans centroid  36 :  28
+nombres de points dans centroid  37 :  305
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  20
+nombres de points dans centroid  40 :  6
+nombres de points dans centroid  41 :  348
+nombres de points dans centroid  42 :  8
+nombres de points dans centroid  43 :  23
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  79
+nombres de points dans centroid  46 :  289
+nombres de points dans centroid  47 :  41
+nombres de points dans centroid  48 :  101
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  59
+22.400696754455566 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 12
+547 dans cette iteration
+nombres de points dans centroid  1 :  12
+nombres de points dans centroid  2 :  19
+nombres de points dans centroid  3 :  99
+nombres de points dans centroid  4 :  64
+nombres de points dans centroid  5 :  32
+nombres de points dans centroid  6 :  14
+nombres de points dans centroid  7 :  418
+nombres de points dans centroid  8 :  13
+nombres de points dans centroid  9 :  176
+nombres de points dans centroid  10 :  105
+nombres de points dans centroid  11 :  43
+nombres de points dans centroid  12 :  16
+nombres de points dans centroid  13 :  88
+nombres de points dans centroid  14 :  18
+nombres de points dans centroid  15 :  43
+nombres de points dans centroid  16 :  119
+nombres de points dans centroid  17 :  898
+nombres de points dans centroid  18 :  2656
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  10
+nombres de points dans centroid  21 :  291
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  17
+nombres de points dans centroid  24 :  15
+nombres de points dans centroid  25 :  43
+nombres de points dans centroid  26 :  51
+nombres de points dans centroid  27 :  227
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  14
+nombres de points dans centroid  30 :  57
+nombres de points dans centroid  31 :  72
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  10
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9141
+nombres de points dans centroid  36 :  29
+nombres de points dans centroid  37 :  328
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  17
+nombres de points dans centroid  40 :  3
+nombres de points dans centroid  41 :  325
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  16
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  78
+nombres de points dans centroid  46 :  241
+nombres de points dans centroid  47 :  33
+nombres de points dans centroid  48 :  88
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  54
+22.06179165840149 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 13
+464 dans cette iteration
+nombres de points dans centroid  1 :  13
+nombres de points dans centroid  2 :  19
+nombres de points dans centroid  3 :  139
+nombres de points dans centroid  4 :  57
+nombres de points dans centroid  5 :  27
+nombres de points dans centroid  6 :  8
+nombres de points dans centroid  7 :  407
+nombres de points dans centroid  8 :  12
+nombres de points dans centroid  9 :  173
+nombres de points dans centroid  10 :  114
+nombres de points dans centroid  11 :  37
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  78
+nombres de points dans centroid  14 :  17
+nombres de points dans centroid  15 :  33
+nombres de points dans centroid  16 :  107
+nombres de points dans centroid  17 :  903
+nombres de points dans centroid  18 :  2716
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  10
+nombres de points dans centroid  21 :  295
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  14
+nombres de points dans centroid  25 :  32
+nombres de points dans centroid  26 :  39
+nombres de points dans centroid  27 :  217
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  14
+nombres de points dans centroid  30 :  54
+nombres de points dans centroid  31 :  67
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9212
+nombres de points dans centroid  36 :  27
+nombres de points dans centroid  37 :  327
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  16
+nombres de points dans centroid  40 :  2
+nombres de points dans centroid  41 :  321
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  13
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  74
+nombres de points dans centroid  46 :  208
+nombres de points dans centroid  47 :  25
+nombres de points dans centroid  48 :  74
+nombres de points dans centroid  49 :  11
+nombres de points dans centroid  50 :  54
+22.381680965423584 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 14
+442 dans cette iteration
+nombres de points dans centroid  1 :  13
+nombres de points dans centroid  2 :  18
+nombres de points dans centroid  3 :  145
+nombres de points dans centroid  4 :  47
+nombres de points dans centroid  5 :  27
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  398
+nombres de points dans centroid  8 :  13
+nombres de points dans centroid  9 :  155
+nombres de points dans centroid  10 :  115
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  72
+nombres de points dans centroid  14 :  14
+nombres de points dans centroid  15 :  30
+nombres de points dans centroid  16 :  99
+nombres de points dans centroid  17 :  936
+nombres de points dans centroid  18 :  2769
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  10
+nombres de points dans centroid  21 :  283
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  14
+nombres de points dans centroid  25 :  23
+nombres de points dans centroid  26 :  35
+nombres de points dans centroid  27 :  222
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  14
+nombres de points dans centroid  30 :  51
+nombres de points dans centroid  31 :  59
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9280
+nombres de points dans centroid  36 :  26
+nombres de points dans centroid  37 :  322
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  17
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  321
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  9
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  68
+nombres de points dans centroid  46 :  179
+nombres de points dans centroid  47 :  19
+nombres de points dans centroid  48 :  66
+nombres de points dans centroid  49 :  10
+nombres de points dans centroid  50 :  48
+21.877321481704712 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 15
+384 dans cette iteration
+nombres de points dans centroid  1 :  12
+nombres de points dans centroid  2 :  21
+nombres de points dans centroid  3 :  140
+nombres de points dans centroid  4 :  38
+nombres de points dans centroid  5 :  24
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  393
+nombres de points dans centroid  8 :  14
+nombres de points dans centroid  9 :  140
+nombres de points dans centroid  10 :  129
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  73
+nombres de points dans centroid  14 :  13
+nombres de points dans centroid  15 :  22
+nombres de points dans centroid  16 :  93
+nombres de points dans centroid  17 :  954
+nombres de points dans centroid  18 :  2830
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  10
+nombres de points dans centroid  21 :  266
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  10
+nombres de points dans centroid  24 :  14
+nombres de points dans centroid  25 :  26
+nombres de points dans centroid  26 :  27
+nombres de points dans centroid  27 :  215
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  13
+nombres de points dans centroid  30 :  49
+nombres de points dans centroid  31 :  60
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9345
+nombres de points dans centroid  36 :  24
+nombres de points dans centroid  37 :  297
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  15
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  314
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  7
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  59
+nombres de points dans centroid  46 :  167
+nombres de points dans centroid  47 :  14
+nombres de points dans centroid  48 :  60
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  39
+22.12596297264099 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 16
+323 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  21
+nombres de points dans centroid  3 :  137
+nombres de points dans centroid  4 :  32
+nombres de points dans centroid  5 :  25
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  414
+nombres de points dans centroid  8 :  13
+nombres de points dans centroid  9 :  127
+nombres de points dans centroid  10 :  144
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  69
+nombres de points dans centroid  14 :  13
+nombres de points dans centroid  15 :  22
+nombres de points dans centroid  16 :  83
+nombres de points dans centroid  17 :  979
+nombres de points dans centroid  18 :  2866
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  9
+nombres de points dans centroid  21 :  255
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  10
+nombres de points dans centroid  24 :  13
+nombres de points dans centroid  25 :  25
+nombres de points dans centroid  26 :  21
+nombres de points dans centroid  27 :  211
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  49
+nombres de points dans centroid  31 :  56
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9403
+nombres de points dans centroid  36 :  21
+nombres de points dans centroid  37 :  246
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  14
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  310
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  6
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  55
+nombres de points dans centroid  46 :  152
+nombres de points dans centroid  47 :  12
+nombres de points dans centroid  48 :  57
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  36
+22.07485008239746 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 17
+307 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  23
+nombres de points dans centroid  3 :  138
+nombres de points dans centroid  4 :  30
+nombres de points dans centroid  5 :  24
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  443
+nombres de points dans centroid  8 :  13
+nombres de points dans centroid  9 :  123
+nombres de points dans centroid  10 :  147
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  66
+nombres de points dans centroid  14 :  12
+nombres de points dans centroid  15 :  20
+nombres de points dans centroid  16 :  78
+nombres de points dans centroid  17 :  1018
+nombres de points dans centroid  18 :  2899
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  9
+nombres de points dans centroid  21 :  228
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  10
+nombres de points dans centroid  24 :  13
+nombres de points dans centroid  25 :  20
+nombres de points dans centroid  26 :  18
+nombres de points dans centroid  27 :  200
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  44
+nombres de points dans centroid  31 :  53
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9451
+nombres de points dans centroid  36 :  19
+nombres de points dans centroid  37 :  200
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  13
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  302
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  6
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  45
+nombres de points dans centroid  46 :  141
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  56
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  34
+21.616633892059326 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 18
+291 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  25
+nombres de points dans centroid  3 :  137
+nombres de points dans centroid  4 :  28
+nombres de points dans centroid  5 :  24
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  489
+nombres de points dans centroid  8 :  13
+nombres de points dans centroid  9 :  111
+nombres de points dans centroid  10 :  134
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  65
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  19
+nombres de points dans centroid  16 :  81
+nombres de points dans centroid  17 :  1047
+nombres de points dans centroid  18 :  2931
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  9
+nombres de points dans centroid  21 :  199
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  10
+nombres de points dans centroid  24 :  12
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  16
+nombres de points dans centroid  27 :  205
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  39
+nombres de points dans centroid  31 :  53
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9479
+nombres de points dans centroid  36 :  18
+nombres de points dans centroid  37 :  165
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  11
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  286
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  8
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  39
+nombres de points dans centroid  46 :  136
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  51
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  29
+21.850255727767944 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 19
+312 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  20
+nombres de points dans centroid  3 :  133
+nombres de points dans centroid  4 :  28
+nombres de points dans centroid  5 :  26
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  560
+nombres de points dans centroid  8 :  14
+nombres de points dans centroid  9 :  104
+nombres de points dans centroid  10 :  126
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  64
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  19
+nombres de points dans centroid  16 :  69
+nombres de points dans centroid  17 :  1049
+nombres de points dans centroid  18 :  2922
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  9
+nombres de points dans centroid  21 :  188
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  11
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  16
+nombres de points dans centroid  27 :  205
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  30
+nombres de points dans centroid  31 :  53
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9517
+nombres de points dans centroid  36 :  17
+nombres de points dans centroid  37 :  137
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  282
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  10
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  35
+nombres de points dans centroid  46 :  127
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  49
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  29
+21.885321617126465 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 20
+355 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  16
+nombres de points dans centroid  3 :  131
+nombres de points dans centroid  4 :  27
+nombres de points dans centroid  5 :  21
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  620
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  96
+nombres de points dans centroid  10 :  118
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  19
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  11
+nombres de points dans centroid  15 :  20
+nombres de points dans centroid  16 :  66
+nombres de points dans centroid  17 :  1081
+nombres de points dans centroid  18 :  2923
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  10
+nombres de points dans centroid  21 :  175
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  11
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  16
+nombres de points dans centroid  27 :  197
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  27
+nombres de points dans centroid  31 :  51
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9547
+nombres de points dans centroid  36 :  16
+nombres de points dans centroid  37 :  103
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  267
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  11
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  31
+nombres de points dans centroid  46 :  114
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  47
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  27
+21.830176830291748 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 21
+322 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  14
+nombres de points dans centroid  3 :  123
+nombres de points dans centroid  4 :  26
+nombres de points dans centroid  5 :  16
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  646
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  91
+nombres de points dans centroid  10 :  106
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  20
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  11
+nombres de points dans centroid  15 :  21
+nombres de points dans centroid  16 :  58
+nombres de points dans centroid  17 :  1120
+nombres de points dans centroid  18 :  2931
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  9
+nombres de points dans centroid  21 :  169
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  11
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  12
+nombres de points dans centroid  27 :  197
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  27
+nombres de points dans centroid  31 :  51
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9569
+nombres de points dans centroid  36 :  16
+nombres de points dans centroid  37 :  83
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  250
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  11
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  31
+nombres de points dans centroid  46 :  106
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  26
+21.82115364074707 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 22
+285 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  12
+nombres de points dans centroid  3 :  124
+nombres de points dans centroid  4 :  26
+nombres de points dans centroid  5 :  16
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  639
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  88
+nombres de points dans centroid  10 :  97
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  20
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  11
+nombres de points dans centroid  15 :  21
+nombres de points dans centroid  16 :  53
+nombres de points dans centroid  17 :  1198
+nombres de points dans centroid  18 :  2937
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  8
+nombres de points dans centroid  21 :  161
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  11
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  203
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  23
+nombres de points dans centroid  31 :  51
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9578
+nombres de points dans centroid  36 :  17
+nombres de points dans centroid  37 :  61
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  219
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  10
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  31
+nombres de points dans centroid  46 :  100
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  49
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  25
+21.661700010299683 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 23
+245 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  128
+nombres de points dans centroid  4 :  25
+nombres de points dans centroid  5 :  16
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  622
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  86
+nombres de points dans centroid  10 :  90
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  21
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  24
+nombres de points dans centroid  16 :  50
+nombres de points dans centroid  17 :  1227
+nombres de points dans centroid  18 :  2951
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  156
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  12
+nombres de points dans centroid  24 :  11
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  207
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  18
+nombres de points dans centroid  31 :  51
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9603
+nombres de points dans centroid  36 :  16
+nombres de points dans centroid  37 :  50
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  199
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  9
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  27
+nombres de points dans centroid  46 :  100
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  49
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  24
+22.396539211273193 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 24
+226 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  130
+nombres de points dans centroid  4 :  24
+nombres de points dans centroid  5 :  13
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  604
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  86
+nombres de points dans centroid  10 :  86
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  20
+nombres de points dans centroid  13 :  61
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  22
+nombres de points dans centroid  16 :  42
+nombres de points dans centroid  17 :  1244
+nombres de points dans centroid  18 :  2964
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  155
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  10
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  210
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  12
+nombres de points dans centroid  31 :  52
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9630
+nombres de points dans centroid  36 :  16
+nombres de points dans centroid  37 :  43
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  187
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  9
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  29
+nombres de points dans centroid  46 :  99
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  50
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  23
+21.678651809692383 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 25
+205 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  137
+nombres de points dans centroid  4 :  25
+nombres de points dans centroid  5 :  11
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  598
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  82
+nombres de points dans centroid  10 :  72
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  19
+nombres de points dans centroid  13 :  60
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  20
+nombres de points dans centroid  16 :  40
+nombres de points dans centroid  17 :  1233
+nombres de points dans centroid  18 :  2973
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  154
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  16
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  217
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  12
+nombres de points dans centroid  31 :  50
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9670
+nombres de points dans centroid  36 :  17
+nombres de points dans centroid  37 :  43
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  10
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  173
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  8
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  29
+nombres de points dans centroid  46 :  96
+nombres de points dans centroid  47 :  11
+nombres de points dans centroid  48 :  51
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  22
+21.927319049835205 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 26
+188 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  141
+nombres de points dans centroid  4 :  24
+nombres de points dans centroid  5 :  10
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  582
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  78
+nombres de points dans centroid  10 :  65
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  17
+nombres de points dans centroid  13 :  60
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  17
+nombres de points dans centroid  16 :  39
+nombres de points dans centroid  17 :  1206
+nombres de points dans centroid  18 :  2997
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  157
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  12
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  216
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  10
+nombres de points dans centroid  31 :  50
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9716
+nombres de points dans centroid  36 :  17
+nombres de points dans centroid  37 :  45
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  160
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  9
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  27
+nombres de points dans centroid  46 :  97
+nombres de points dans centroid  47 :  12
+nombres de points dans centroid  48 :  52
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  20
+22.044624090194702 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 27
+168 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  144
+nombres de points dans centroid  4 :  23
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  562
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  73
+nombres de points dans centroid  10 :  58
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  13
+nombres de points dans centroid  13 :  60
+nombres de points dans centroid  14 :  10
+nombres de points dans centroid  15 :  14
+nombres de points dans centroid  16 :  43
+nombres de points dans centroid  17 :  1181
+nombres de points dans centroid  18 :  3024
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  155
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  12
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  215
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  53
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9762
+nombres de points dans centroid  36 :  19
+nombres de points dans centroid  37 :  47
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  154
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  8
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  24
+nombres de points dans centroid  46 :  90
+nombres de points dans centroid  47 :  13
+nombres de points dans centroid  48 :  52
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  18
+22.56552004814148 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 28
+155 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  146
+nombres de points dans centroid  4 :  25
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  546
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  72
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  9
+nombres de points dans centroid  13 :  60
+nombres de points dans centroid  14 :  9
+nombres de points dans centroid  15 :  13
+nombres de points dans centroid  16 :  45
+nombres de points dans centroid  17 :  1164
+nombres de points dans centroid  18 :  3039
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  154
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  212
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  52
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9803
+nombres de points dans centroid  36 :  18
+nombres de points dans centroid  37 :  53
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  148
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  7
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  20
+nombres de points dans centroid  46 :  84
+nombres de points dans centroid  47 :  12
+nombres de points dans centroid  48 :  53
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  18
+24.3361074924469 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 29
+170 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  142
+nombres de points dans centroid  4 :  23
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  515
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  68
+nombres de points dans centroid  10 :  53
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  8
+nombres de points dans centroid  13 :  60
+nombres de points dans centroid  14 :  9
+nombres de points dans centroid  15 :  10
+nombres de points dans centroid  16 :  41
+nombres de points dans centroid  17 :  1162
+nombres de points dans centroid  18 :  3063
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  153
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  18
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  207
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  10
+nombres de points dans centroid  31 :  51
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9840
+nombres de points dans centroid  36 :  19
+nombres de points dans centroid  37 :  55
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  147
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  5
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  18
+nombres de points dans centroid  46 :  83
+nombres de points dans centroid  47 :  10
+nombres de points dans centroid  48 :  54
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  16
+24.51210880279541 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 30
+165 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  148
+nombres de points dans centroid  4 :  19
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  504
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  68
+nombres de points dans centroid  10 :  53
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  8
+nombres de points dans centroid  13 :  61
+nombres de points dans centroid  14 :  9
+nombres de points dans centroid  15 :  5
+nombres de points dans centroid  16 :  38
+nombres de points dans centroid  17 :  1165
+nombres de points dans centroid  18 :  3080
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  154
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  12
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  18
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  199
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  47
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9871
+nombres de points dans centroid  36 :  23
+nombres de points dans centroid  37 :  55
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  142
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  4
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  17
+nombres de points dans centroid  46 :  68
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  53
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  13
+22.682831287384033 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 31
+161 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  151
+nombres de points dans centroid  4 :  17
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  477
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  60
+nombres de points dans centroid  10 :  54
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  8
+nombres de points dans centroid  13 :  61
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  4
+nombres de points dans centroid  16 :  36
+nombres de points dans centroid  17 :  1174
+nombres de points dans centroid  18 :  3108
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  155
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  10
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  18
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  198
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  10
+nombres de points dans centroid  31 :  44
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9893
+nombres de points dans centroid  36 :  20
+nombres de points dans centroid  37 :  56
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  142
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  16
+nombres de points dans centroid  46 :  58
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  53
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  10
+22.028831005096436 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 32
+151 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  148
+nombres de points dans centroid  4 :  17
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  458
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  48
+nombres de points dans centroid  10 :  50
+nombres de points dans centroid  11 :  33
+nombres de points dans centroid  12 :  7
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  32
+nombres de points dans centroid  17 :  1192
+nombres de points dans centroid  18 :  3127
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  155
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  11
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  18
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  202
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  10
+nombres de points dans centroid  31 :  43
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9913
+nombres de points dans centroid  36 :  18
+nombres de points dans centroid  37 :  58
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  138
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  16
+nombres de points dans centroid  46 :  46
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  52
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  9
+21.65481424331665 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 33
+153 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  142
+nombres de points dans centroid  4 :  16
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  430
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  37
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  6
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  30
+nombres de points dans centroid  17 :  1204
+nombres de points dans centroid  18 :  3151
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  156
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  12
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  18
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  197
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  41
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9942
+nombres de points dans centroid  36 :  19
+nombres de points dans centroid  37 :  57
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  132
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  15
+nombres de points dans centroid  46 :  41
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  53
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  8
+21.77213191986084 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 34
+150 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  135
+nombres de points dans centroid  4 :  15
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  409
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  31
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  61
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  29
+nombres de points dans centroid  17 :  1209
+nombres de points dans centroid  18 :  3173
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  157
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  13
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  184
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  42
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  9974
+nombres de points dans centroid  36 :  14
+nombres de points dans centroid  37 :  57
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  133
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  15
+nombres de points dans centroid  46 :  35
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  54
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  7
+21.79422688484192 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 35
+161 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  136
+nombres de points dans centroid  4 :  14
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  400
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  28
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  61
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  27
+nombres de points dans centroid  17 :  1204
+nombres de points dans centroid  18 :  3201
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  157
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  17
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  163
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  9
+nombres de points dans centroid  31 :  39
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10011
+nombres de points dans centroid  36 :  10
+nombres de points dans centroid  37 :  48
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  124
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  15
+nombres de points dans centroid  46 :  28
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  56
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  7
+22.114060878753662 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 36
+146 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  134
+nombres de points dans centroid  4 :  16
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  401
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  22
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  1174
+nombres de points dans centroid  18 :  3234
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  153
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  17
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  158
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  34
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10048
+nombres de points dans centroid  36 :  11
+nombres de points dans centroid  37 :  41
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  115
+nombres de points dans centroid  42 :  10
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  15
+nombres de points dans centroid  46 :  25
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  54
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  7
+22.130105018615723 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 37
+136 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  130
+nombres de points dans centroid  4 :  18
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  403
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  23
+nombres de points dans centroid  10 :  53
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  1124
+nombres de points dans centroid  18 :  3278
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  152
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  17
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  144
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  33
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10082
+nombres de points dans centroid  36 :  11
+nombres de points dans centroid  37 :  41
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  108
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  22
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  53
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  6
+22.58647394180298 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 38
+126 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  126
+nombres de points dans centroid  4 :  21
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  392
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  20
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  1077
+nombres de points dans centroid  18 :  3324
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  151
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  139
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  33
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10116
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  40
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  103
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  19
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  52
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  5
+22.036850452423096 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 39
+118 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  124
+nombres de points dans centroid  4 :  26
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  386
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  1050
+nombres de points dans centroid  18 :  3358
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  151
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  119
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  33
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10144
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  38
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  99
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  16
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  50
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  5
+21.83931541442871 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 40
+113 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  124
+nombres de points dans centroid  4 :  34
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  372
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  997
+nombres de points dans centroid  18 :  3403
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  151
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  113
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  33
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10175
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  95
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  11
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  50
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  5
+21.21553945541382 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 41
+86 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  121
+nombres de points dans centroid  4 :  34
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  370
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  26
+nombres de points dans centroid  17 :  952
+nombres de points dans centroid  18 :  3433
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  152
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  109
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  33
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10204
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  90
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  11
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  50
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.487396240234375 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 42
+76 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  120
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  365
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  921
+nombres de points dans centroid  18 :  3460
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  151
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  108
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  32
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10225
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  83
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  9
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  50
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.402169466018677 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 43
+67 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  119
+nombres de points dans centroid  4 :  37
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  346
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  920
+nombres de points dans centroid  18 :  3483
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  151
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  106
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  31
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10232
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  78
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  49
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.38712763786316 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 44
+61 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  119
+nombres de points dans centroid  4 :  37
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  335
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  914
+nombres de points dans centroid  18 :  3504
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  149
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  102
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10240
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  75
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.26079249382019 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 45
+44 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  118
+nombres de points dans centroid  4 :  37
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  322
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  905
+nombres de points dans centroid  18 :  3518
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  148
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10252
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  74
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.542542934417725 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 46
+30 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  37
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  318
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  890
+nombres de points dans centroid  18 :  3535
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  148
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10256
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  73
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.603708267211914 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 47
+33 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  317
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  52
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  62
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  866
+nombres de points dans centroid  18 :  3557
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  148
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10261
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  72
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+22.07095742225647 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 48
+26 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  313
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  854
+nombres de points dans centroid  18 :  3573
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10263
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  71
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+22.07498788833618 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 49
+22 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  310
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  844
+nombres de points dans centroid  18 :  3590
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  148
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10259
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  70
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+22.375771522521973 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 50
+14 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  304
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  848
+nombres de points dans centroid  18 :  3597
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10255
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  70
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+22.270488500595093 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 51
+9 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  299
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  847
+nombres de points dans centroid  18 :  3602
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  148
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10255
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  70
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+23.122764110565186 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 52
+11 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  297
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  846
+nombres de points dans centroid  18 :  3605
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10257
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  69
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.64782452583313 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 53
+11 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  295
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  840
+nombres de points dans centroid  18 :  3613
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10257
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  69
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.63078022003174 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 54
+7 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  294
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  835
+nombres de points dans centroid  18 :  3617
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10259
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  69
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+21.2727108001709 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 55
+3 dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  294
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  832
+nombres de points dans centroid  18 :  3619
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10260
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  69
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+clustering finished
+21.521212339401245 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 56
+aucune autre changement  dans cette iteration
+nombres de points dans centroid  1 :  11
+nombres de points dans centroid  2 :  11
+nombres de points dans centroid  3 :  117
+nombres de points dans centroid  4 :  36
+nombres de points dans centroid  5 :  9
+nombres de points dans centroid  6 :  7
+nombres de points dans centroid  7 :  294
+nombres de points dans centroid  8 :  15
+nombres de points dans centroid  9 :  19
+nombres de points dans centroid  10 :  51
+nombres de points dans centroid  11 :  34
+nombres de points dans centroid  12 :  5
+nombres de points dans centroid  13 :  63
+nombres de points dans centroid  14 :  8
+nombres de points dans centroid  15 :  3
+nombres de points dans centroid  16 :  25
+nombres de points dans centroid  17 :  832
+nombres de points dans centroid  18 :  3619
+nombres de points dans centroid  19 :  15
+nombres de points dans centroid  20 :  7
+nombres de points dans centroid  21 :  147
+nombres de points dans centroid  22 :  3
+nombres de points dans centroid  23 :  19
+nombres de points dans centroid  24 :  9
+nombres de points dans centroid  25 :  17
+nombres de points dans centroid  26 :  10
+nombres de points dans centroid  27 :  101
+nombres de points dans centroid  28 :  2
+nombres de points dans centroid  29 :  11
+nombres de points dans centroid  30 :  8
+nombres de points dans centroid  31 :  29
+nombres de points dans centroid  32 :  1
+nombres de points dans centroid  33 :  8
+nombres de points dans centroid  34 :  2
+nombres de points dans centroid  35 :  10260
+nombres de points dans centroid  36 :  9
+nombres de points dans centroid  37 :  36
+nombres de points dans centroid  38 :  1
+nombres de points dans centroid  39 :  9
+nombres de points dans centroid  40 :  1
+nombres de points dans centroid  41 :  69
+nombres de points dans centroid  42 :  9
+nombres de points dans centroid  43 :  3
+nombres de points dans centroid  44 :  5
+nombres de points dans centroid  45 :  14
+nombres de points dans centroid  46 :  8
+nombres de points dans centroid  47 :  9
+nombres de points dans centroid  48 :  48
+nombres de points dans centroid  49 :  9
+nombres de points dans centroid  50 :  4
+-----------------------------------------------------------
+Temps total : 27.06 minutes 
+-----------------------------------------------------------
+resultats du  1 ème centroide
+
+ votes:  NOM : 2.7142857142857135 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('attendant', 285.75206611570246)  est un  NOM
+
+ votes:  NOM : 1.0386100386100385 VER : 0.007722007722007722 ADJ : 0.007722007722007722   En pouvoir de votes (total de  15  votes)
+('regardant', 325.3884297520661)  est un  NOM
+
+ votes:  NOM : 1.0005998800239952 VER : 0.0023995200959808036 ADJ : 0.0005998800239952009 ADV : 0.0005998800239952009 ONO : 0.0023995200959808036 PRO:per : 0.0017996400719856027   En pouvoir de votes (total de  15  votes)
+('face', 439.5702479338843)  est un  NOM
+
+ votes:  NOM : 2.1428571428571423 VER : 0.857142857142857   En pouvoir de votes (total de  15  votes)
+('faisant', 523.5702479338843)  est un  NOM
+
+ votes:  NOM : 1.769833193221539e-05 VER : 1.0000353966638649 PRE : 8.849165966107695e-06 ADV : 8.849165966107695e-06 CON : 1.769833193221539e-05 PRO:per : 2.6547497898323084e-05 PRO:rel : 8.849165966107695e-06   En pouvoir de votes (total de  15  votes)
+('avant', 628.4793388429753)  est un  VER
+
+ votes:  NOM : 0.38461538461538464 VER : 1.6923076923076918   En pouvoir de votes (total de  15  votes)
+('voyant', 680.8429752066116)  est un  VER
+
+ votes:  NOM : 0.02389078498293515 VER : 1.0238907849829355   En pouvoir de votes (total de  15  votes)
+('angleterre', 783.7520661157022)  est un  VER
+
+ votes:  NOM : 0.3333333333333333 VER : 2.2222222222222228   En pouvoir de votes (total de  15  votes)
+('cas', 791.9338842975206)  est un  VER
+
+ votes:  NOM : 0.857142857142857 VER : 1.8571428571428568 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('sûr', 860.6611570247934)  est un  VER
+
+ votes:  NOM : 0.2727272727272727 VER : 0.6363636363636365 ADJ : 1.3636363636363633   En pouvoir de votes (total de  15  votes)
+('autant', 1376.297520661157)  est un  ADJ
+-----------------------------------------------------------
+resultats du  2 ème centroide
+-----------------------------------------------------------
+resultats du  3 ème centroide
+
+ votes:  NOM : 1.7272727272727266 VER : 0.4545454545454546 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('ignorait', 131.20943823507926)  est un  NOM
+
+ votes:  NOM : 0.25581395348837205 VER : 1.0232558139534884 ADJ : 0.046511627906976744   En pouvoir de votes (total de  15  votes)
+('arrive', 136.09832712396815)  est un  VER
+
+ votes:  NOM : 3.0 VER : 1.6666666666666665 ADJ : 0.6666666666666666 ADV : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('aimait', 141.27781430345533)  est un  NOM
+
+ votes:  NOM : 0.029197080291970802 VER : 0.021897810218978103 ADJ : 0.0364963503649635 ADV : 1.0145985401459856   En pouvoir de votes (total de  15  votes)
+('fera', 142.97012199576304)  est un  ADV
+
+ votes:  NOM : 0.0015313935681470138 VER : 0.016845329249617156 PRO:ind : 1.0030627871362938   En pouvoir de votes (total de  15  votes)
+('descendit', 150.81627584191685)  est un  PRO:ind
+
+ votes:  NOM : 0.0418848167539267 VER : 0.010471204188481676 ADJ : 0.015706806282722516 PRO:ind : 1.0052356020942408   En pouvoir de votes (total de  15  votes)
+('regardait', 152.0299510555921)  est un  PRO:ind
+
+ votes:  NOM : 0.6 VER : 0.3333333333333333 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('sembla', 155.15815618379722)  est un  ADJ
+
+ votes:  NOM : 0.021834061135371178 VER : 1.0393013100436672   En pouvoir de votes (total de  15  votes)
+('croyait', 159.2607202863613)  est un  VER
+
+ votes:  NOM : 1.0522875816993462 VER : 0.032679738562091505 ADJ : 0.006535947712418301   En pouvoir de votes (total de  15  votes)
+('pourrait', 160.21798524362626)  est un  NOM
+
+ votes:  NOM : 1.070063694267516 VER : 0.006369426751592357 ADJ : 0.012738853503184714   En pouvoir de votes (total de  15  votes)
+('duquel', 160.78208780772883)  est un  NOM
+-----------------------------------------------------------
+resultats du  4 ème centroide
+
+ votes:  NOM : 0.1044776119402985 VER : 1.1044776119402988   En pouvoir de votes (total de  15  votes)
+('conversation', 288.1404320987654)  est un  VER
+
+ votes:  NOM : 0.0014713094654242277 VER : 1.0034330554193236 ADV : 0.0004904364884747426 ONO : 0.0004904364884747426 CON : 0.0004904364884747426 PRO:per : 0.0004904364884747426   En pouvoir de votes (total de  15  votes)
+('cour', 344.91820987654324)  est un  VER
+
+ votes:  NOM : 0.6666666666666666 VER : 0.2 ADJ : 1.0666666666666667   En pouvoir de votes (total de  15  votes)
+('voiture', 447.6959876543209)  est un  ADJ
+
+ votes:  NOM : 2.1999999999999997 VER : 1.2 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('mer', 507.9737654320987)  est un  NOM
+
+ votes:  NOM : 1.666666666666667 VER : 0.4444444444444444 ADJ : 0.3333333333333333 ONO : 0.1111111111111111   En pouvoir de votes (total de  15  votes)
+('procureuse', 518.1404320987655)  est un  NOM
+
+ votes:  NOM : 0.4 VER : 3.2000000000000006 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('veille', 579.1404320987655)  est un  VER
+
+ votes:  NOM : 0.0392156862745098 VER : 1.2156862745098032 ADJ:num : 0.0196078431372549   En pouvoir de votes (total de  15  votes)
+('dame', 592.0848765432098)  est un  VER
+
+ votes:  NOM : 0.4705882352941177 VER : 1.3529411764705883   En pouvoir de votes (total de  15  votes)
+('fenêtre', 619.9737654320988)  est un  VER
+
+ votes:  NOM : 0.6363636363636365 VER : 0.7272727272727274   En pouvoir de votes (total de  15  votes)
+('rochelle', 630.9182098765433)  est un  VER
+
+ votes:  NOM : 1.1052631578947372 VER : 0.042105263157894736   En pouvoir de votes (total de  15  votes)
+('force', 655.3070987654322)  est un  NOM
+-----------------------------------------------------------
+resultats du  5 ème centroide
+-----------------------------------------------------------
+resultats du  6 ème centroide
+
+ votes:  NOM : 0.5555555555555556 VER : 1.8888888888888893 ADV : 0.1111111111111111   En pouvoir de votes (total de  15  votes)
+('peine', 1315.3061224489795)  est un  VER
+
+ votes:  NOM : 1.053763440860215 VER : 0.043010752688172046 ADJ : 0.05376344086021506   En pouvoir de votes (total de  15  votes)
+('quant', 1328.4489795918364)  est un  NOM
+
+ votes:  NOM : 1.3600000000000003 VER : 0.2   En pouvoir de votes (total de  15  votes)
+('paris', 1349.020408163265)  est un  NOM
+
+ votes:  NOM : 0.00048375393050068525 VER : 0.0003225026203337902 ART:def : 8.062565508344755e-05 PRO:dem : 8.062565508344755e-05 PRO:per : 1.0 PRO:pos : 0.0001612513101668951   En pouvoir de votes (total de  15  votes)
+('tour', 3172.7346938775513)  est un  PRO:per
+
+ votes:  NOM : 1.3670483921460336e-06 VER : 6.835241960730168e-06 ADV : 1.3670483921460336e-06 CON : 2.734096784292067e-06 PRO:per : 5.468193568584134e-06 PRO:rel : 1.000001367048392   En pouvoir de votes (total de  15  votes)
+('près', 4747.877551020409)  est un  PRO:rel
+-----------------------------------------------------------
+resultats du  7 ème centroide
+
+ votes:  NOM : 0.21739130434782608 VER : 1.3043478260869563 ADJ : 0.08695652173913043   En pouvoir de votes (total de  15  votes)
+('disparition', 32.218450645564346)  est un  VER
+
+ votes:  NOM : 0.4 VER : 3.2000000000000006 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('bienveillance', 33.77627377481605)  est un  VER
+
+ votes:  NOM : 1.3170731707317076 VER : 0.024390243902439025   En pouvoir de votes (total de  15  votes)
+('défaite', 36.80348465916978)  est un  NOM
+
+ votes:  VER : 0.17142857142857143 ADJ : 1.2285714285714278   En pouvoir de votes (total de  15  votes)
+('gravité', 39.52457309454394)  est un  ADJ
+
+ votes:  NOM : 0.19047619047619047 VER : 1.0317460317460316   En pouvoir de votes (total de  15  votes)
+('victoire', 40.83069554352353)  est un  VER
+
+ votes:  NOM : 2.5714285714285707 VER : 0.2857142857142857 ADJ : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('rivière', 42.38851867277524)  est un  NOM
+
+ votes:  NOM : 0.34782608695652173 VER : 0.21739130434782608 ADJ : 0.043478260869565216 ADV : 1.0   En pouvoir de votes (total de  15  votes)
+('lame', 43.857906427877275)  est un  ADV
+
+ votes:  VER : 1.1333333333333329   En pouvoir de votes (total de  15  votes)
+('perte', 44.15722615576843)  est un  VER
+
+ votes:  NOM : 1.4545454545454541 VER : 0.7272727272727274 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('gloire', 45.06198806053034)  est un  NOM
+
+ votes:  NOM : 0.4444444444444444 VER : 1.8888888888888893 ADJ : 0.2222222222222222   En pouvoir de votes (total de  15  votes)
+('corde', 46.061988060530325)  est un  VER
+-----------------------------------------------------------
+resultats du  8 ème centroide
+
+ votes:  VER : 1.0208643815201204   En pouvoir de votes (total de  15  votes)
+('abord', 1313.8844444444446)  est un  VER
+
+ votes:  NOM : 1.5999999999999999 VER : 1.5999999999999999 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('ici', 1554.4177777777775)  est un  NOM
+
+ votes:  NOM : 2.285714285714285 VER : 0.42857142857142855 ADJ : 0.14285714285714285 PRO:ind : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('amour', 1637.8844444444442)  est un  NOM
+
+ votes:  NOM : 0.39999999999999997 VER : 0.5333333333333333 ADJ : 0.06666666666666667   En pouvoir de votes (total de  15  votes)
+('or', 1971.6177777777775)  est un  VER
+
+ votes:  NOM : 0.00010340726953104803 VER : 1.0004653327128903 ADJ : 0.00010340726953104803 CON : 5.1703634765524014e-05   En pouvoir de votes (total de  15  votes)
+('continua', 2241.4844444444443)  est un  VER
+
+ votes:  NOM : 0.11764705882352941 VER : 1.0980392156862742 ADJ : 0.058823529411764705   En pouvoir de votes (total de  15  votes)
+('oeil', 2528.8177777777773)  est un  VER
+
+ votes:  NOM : 1.027247956403269 VER : 0.008174386920980926 PRO:dem : 0.0027247956403269754   En pouvoir de votes (total de  15  votes)
+('autriche', 2974.1511111111104)  est un  NOM
+
+ votes:  NOM : 0.0021889821233126595 VER : 0.0021889821233126595 ADV : 0.0007296607077708865 PRO:per : 0.00036483035388544326   En pouvoir de votes (total de  15  votes)
+('anne', 3205.351111111112)  est un  NOM
+
+ votes:  NOM : 1.571428571428571 VER : 1.4285714285714284   En pouvoir de votes (total de  15  votes)
+('reprit', 3927.4844444444448)  est un  NOM
+
+ votes:  NOM : 0.36363636363636365 VER : 1.6363636363636358 ADJ : 0.2727272727272727   En pouvoir de votes (total de  15  votes)
+('ailleurs', 4124.151111111111)  est un  VER
+-----------------------------------------------------------
+resultats du  9 ème centroide
+
+ votes:  NOM : 0.006092254134029591 VER : 0.006092254134029591 CON : 1.0   En pouvoir de votes (total de  15  votes)
+('bruit', 823.9833795013851)  est un  CON
+
+ votes:  NOM : 0.36363636363636365 VER : 0.6363636363636365 ADJ : 0.2727272727272727 PRO:rel : 1.0   En pouvoir de votes (total de  15  votes)
+('chemin', 826.7202216066484)  est un  PRO:rel
+
+ votes:  NOM : 0.012787723785166242 VER : 0.023017902813299233 PRE : 1.0   En pouvoir de votes (total de  15  votes)
+('mousquetaire', 913.9833795013851)  est un  PRE
+
+ votes:  NOM : 1.0005907671533458 VER : 0.00025318592286268884 PRE : 0.00025318592286268884 ADJ:num : 8.439530762089628e-05   En pouvoir de votes (total de  15  votes)
+('lendemain', 1164.6149584487537)  est un  NOM
+
+ votes:  NOM : 1.282051282051281 VER : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('premier', 1481.1412742382267)  est un  NOM
+
+ votes:  NOM : 0.17948717948717946 VER : 0.1282051282051282 ADJ : 1.051282051282051   En pouvoir de votes (total de  15  votes)
+('gentilhomme', 1631.772853185596)  est un  ADJ
+
+ votes:  NOM : 0.18604651162790697 VER : 1.116279069767442 ADJ : 0.023255813953488372   En pouvoir de votes (total de  15  votes)
+('bras', 1742.9307479224376)  est un  VER
+
+ votes:  NOM : 1.1929824561403515 VER : 0.05263157894736842   En pouvoir de votes (total de  15  votes)
+('comte', 1794.9307479224376)  est un  NOM
+
+ votes:  NOM : 1.7333333333333332 VER : 0.2   En pouvoir de votes (total de  15  votes)
+('visage', 1863.87811634349)  est un  NOM
+
+ votes:  NOM : 1.00593336376084 VER : 0.00045641259698767686   En pouvoir de votes (total de  15  votes)
+('chapitre', 2028.404432132964)  est un  NOM
+-----------------------------------------------------------
+resultats du  10 ème centroide
+
+ votes:  VER : 1.823529411764706   En pouvoir de votes (total de  15  votes)
+('lequel?', 174.90196078431376)  est un  VER
+
+ votes:  NOM : 0.07692307692307693 VER : 1.9999999999999993   En pouvoir de votes (total de  15  votes)
+('vraiment?', 185.37254901960785)  est un  VER
+
+ votes:  NOM : 1.0 VER : 2.4 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('comment?', 195.92156862745097)  est un  VER
+
+ votes:  NOM : 0.06145251396648045 VER : 1.011173184357542 ADJ : 0.00558659217877095   En pouvoir de votes (total de  15  votes)
+('monsieur?', 198.9411764705882)  est un  VER
+
+ votes:  VER : 2.8000000000000003 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('écoutez', 201.01960784313724)  est un  VER
+
+ votes:  VER : 15.0   En pouvoir de votes (total de  15  votes)
+('quoi?', 203.843137254902)  est un  VER
+
+ votes:  NOM : 1.3333333333333333 VER : 4.333333333333333   En pouvoir de votes (total de  15  votes)
+('vous?', 205.33333333333331)  est un  VER
+
+ votes:  VER : 1.6666666666666674   En pouvoir de votes (total de  15  votes)
+('moi?', 206.94117647058823)  est un  VER
+
+ votes:  NOM : 1.1234567901234573 VER : 0.04938271604938271   En pouvoir de votes (total de  15  votes)
+('bah', 214.47058823529412)  est un  NOM
+
+ votes:  NOM : 0.02877697841726619 VER : 0.05035971223021582 ADJ : 0.007194244604316547 PRO:rel : 1.014388489208633   En pouvoir de votes (total de  15  votes)
+('porthos?', 235.09803921568627)  est un  PRO:rel
+-----------------------------------------------------------
+resultats du  11 ème centroide
+
+ votes:  NOM : 0.6666666666666666 VER : 4.0 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('occasion', 153.66089965397924)  est un  VER
+
+ votes:  NOM : 0.6153846153846154 VER : 0.3076923076923077 ADJ : 0.15384615384615385 ADJ:num : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('intérieur', 191.1903114186851)  est un  NOM
+
+ votes:  VER : 1.2745098039215677   En pouvoir de votes (total de  15  votes)
+('avenir', 193.13148788927333)  est un  VER
+
+ votes:  NOM : 4.770542851997486e-06 VER : 2.385271425998743e-06 PRE : 1.1926357129993716e-06 CON : 1.1926357129993716e-06 PRO:dem : 1.1926357129993716e-06 PRO:per : 1.0000047705428523 PRO:rel : 1.1926357129993716e-06   En pouvoir de votes (total de  15  votes)
+('histoire', 211.6020761245675)  est un  PRO:per
+
+ votes:  NOM : 0.23529411764705876 VER : 0.0392156862745098 ADJ : 0.0196078431372549   En pouvoir de votes (total de  15  votes)
+('auberge', 219.19031141868516)  est un  NOM
+
+ votes:  NOM : 0.6363636363636365 VER : 0.6363636363636365 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('eau', 227.8961937716263)  est un  NOM
+
+ votes:  NOM : 0.2 VER : 2.6 ADV : 1.0   En pouvoir de votes (total de  15  votes)
+('église', 232.1314878892734)  est un  VER
+
+ votes:  NOM : 0.4 VER : 3.0000000000000004 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('avis', 235.71972318339104)  est un  VER
+
+ votes:  NOM : 0.28571428571428575 VER : 0.05714285714285714 ADJ : 0.02857142857142857 PRO:rel : 1.0285714285714285   En pouvoir de votes (total de  15  votes)
+('aide', 239.3667820069204)  est un  PRO:rel
+
+ votes:  NOM : 1.8181818181818175 VER : 0.36363636363636365 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('oreille', 257.2491349480969)  est un  NOM
+-----------------------------------------------------------
+resultats du  12 ème centroide
+
+ votes:  NOM : 0.007662835249042146 VER : 0.001277139208173691 ADJ : 1.0089399744572154   En pouvoir de votes (total de  15  votes)
+('eût', 5145.5199999999995)  est un  ADJ
+-----------------------------------------------------------
+resultats du  13 ème centroide
+
+ votes:  NOM : 0.08391608391608392 VER : 1.0139860139860142   En pouvoir de votes (total de  15  votes)
+('revenant', 30.501889644746782)  est un  VER
+
+ votes:  NOM : 1.5999999999999999 VER : 1.7999999999999998 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('posant', 40.47014361300076)  est un  VER
+
+ votes:  NOM : 0.857142857142857 VER : 0.857142857142857 ADJ : 0.2857142857142857 ADV : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('soulevant', 42.47014361300076)  est un  NOM
+
+ votes:  NOM : 0.12121212121212122 VER : 1.3030303030303028   En pouvoir de votes (total de  15  votes)
+('relevant', 43.835222978080125)  est un  VER
+
+ votes:  NOM : 0.14285714285714285 VER : 1.3333333333333337 ADJ : 0.14285714285714285 ADV : 0.047619047619047616   En pouvoir de votes (total de  15  votes)
+('poussant', 46.34315948601663)  est un  VER
+
+ votes:  NOM : 0.42857142857142855 VER : 1.4285714285714282 ADJ : 1.1428571428571428   En pouvoir de votes (total de  15  votes)
+('rentrant', 46.53363567649282)  est un  VER
+
+ votes:  NOM : 1.9999999999999998 VER : 1.4 ADV : 0.4   En pouvoir de votes (total de  15  votes)
+('apercevant', 50.470143613000765)  est un  NOM
+
+ votes:  NOM : 0.47619047619047616 VER : 1.1904761904761907   En pouvoir de votes (total de  15  votes)
+('finir', 52.81934996220711)  est un  VER
+
+ votes:  VER : 2.2727272727272716   En pouvoir de votes (total de  15  votes)
+('criant', 52.94633408919123)  est un  VER
+
+ votes:  NOM : 1.0095956134338593   En pouvoir de votes (total de  15  votes)
+('portant', 55.93046107331822)  est un  NOM
+-----------------------------------------------------------
+resultats du  14 ème centroide
+-----------------------------------------------------------
+resultats du  15 ème centroide
+
+ votes:  NOM : 0.002820874471086036 VER : 1.0005641748942171 PRO:ind : 0.0005641748942172073   En pouvoir de votes (total de  15  votes)
+('roi', 8972.666666666668)  est un  VER
+
+ votes:  NOM : 0.6 VER : 0.2 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('cardinal', 32899.33333333332)  est un  NOM
+-----------------------------------------------------------
+resultats du  16 ème centroide
+
+ votes:  NOM : 1.4444444444444446 VER : 0.7777777777777779 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('parler', 1044.1055999999999)  est un  NOM
+
+ votes:  NOM : 2.6 VER : 0.6000000000000001 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('celle', 1085.2256)  est un  NOM
+
+ votes:  NOM : 1.5263157894736836 VER : 0.05263157894736842 ADJ : 0.15789473684210525   En pouvoir de votes (total de  15  votes)
+('tant', 1191.2255999999998)  est un  NOM
+
+ votes:  NOM : 1.0 VER : 1.9999999999999998 ADJ : 0.8   En pouvoir de votes (total de  15  votes)
+('wardes', 1545.5456000000001)  est un  VER
+
+ votes:  NOM : 0.11392405063291139 VER : 0.06329113924050633 ADJ : 0.012658227848101266   En pouvoir de votes (total de  15  votes)
+('vin', 1651.1455999999998)  est un  NOM
+
+ votes:  NOM : 1.0975609756097562 VER : 0.2439024390243902   En pouvoir de votes (total de  15  votes)
+('quelques', 1943.0656000000001)  est un  NOM
+
+ votes:  NOM : 0.03225806451612903 VER : 1.0580645161290314   En pouvoir de votes (total de  15  votes)
+('voir', 1958.7456)  est un  VER
+
+ votes:  NOM : 0.007525870178739417 VER : 0.004703668861712136 ADJ : 0.0018814675446848542   En pouvoir de votes (total de  15  votes)
+('buckingham', 2685.5456000000004)  est un  NOM
+
+ votes:  NOM : 0.030303030303030304 VER : 1.3939393939393936   En pouvoir de votes (total de  15  votes)
+('venait', 2856.8256)  est un  VER
+
+ votes:  NOM : 0.2857142857142857 VER : 0.9999999999999998 ADJ : 1.714285714285714   En pouvoir de votes (total de  15  votes)
+('fort', 2873.7855999999997)  est un  ADJ
+-----------------------------------------------------------
+resultats du  17 ème centroide
+
+ votes:  VER : 1.2372881355932197   En pouvoir de votes (total de  15  votes)
+('tremble', 21.573539779031066)  est un  VER
+
+ votes:  NOM : 0.6000000000000001 VER : 1.9999999999999998 ADJ : 1.0 ADV : 0.2   En pouvoir de votes (total de  15  votes)
+('blanc-seing', 24.830751317492602)  est un  VER
+
+ votes:  NOM : 1.538461538461538 VER : 0.5384615384615385   En pouvoir de votes (total de  15  votes)
+('offre', 25.042289779031066)  est un  NOM
+
+ votes:  NOM : 0.4 VER : 1.9999999999999998 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('suprême', 26.69373208672337)  est un  VER
+
+ votes:  NOM : 0.411764705882353 VER : 1.411764705882353   En pouvoir de votes (total de  15  votes)
+('instrument', 29.124020548261832)  est un  VER
+
+ votes:  NOM : 0.3684210526315789 VER : 0.21052631578947367 ADJ : 0.10526315789473684 ADJ:num : 1.0526315789473684   En pouvoir de votes (total de  15  votes)
+('examina', 29.95094362518491)  est un  ADJ:num
+
+ votes:  NOM : 0.42857142857142855 VER : 2.5714285714285707   En pouvoir de votes (total de  15  votes)
+('choix', 30.10478977903106)  est un  VER
+
+ votes:  NOM : 1.2 VER : 2.1999999999999997 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('monstre', 30.491809009800296)  est un  VER
+
+ votes:  NOM : 4.0 VER : 0.6666666666666666 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('tendre', 30.515847471338756)  est un  NOM
+
+ votes:  NOM : 1.2857142857142854 VER : 1.5714285714285712 ADJ : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('trouble', 32.05430900980029)  est un  VER
+-----------------------------------------------------------
+resultats du  18 ème centroide
+
+ votes:  NOM : 0.6000000000000001 VER : 1.5999999999999999 ADJ : 0.8   En pouvoir de votes (total de  15  votes)
+('rébellion', 1.746497427954043)  est un  VER
+
+ votes:  NOM : 2.6666666666666665 VER : 1.9999999999999998 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('révocation', 1.9465526918390943)  est un  NOM
+
+ votes:  NOM : 1.4615384615384612 VER : 0.46153846153846156 ADV : 0.07692307692307693 ONO : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('coque', 2.0786333771112684)  est un  NOM
+
+ votes:  VER : 1.0164765525982262 PRO:rel : 0.0012674271229404308   En pouvoir de votes (total de  15  votes)
+('vigilance', 2.1692661485951037)  est un  VER
+
+ votes:  NOM : 1.9999999999999998 VER : 3.0 ADJ : 0.6666666666666666   En pouvoir de votes (total de  15  votes)
+('longanimité', 2.1863979529609505)  est un  VER
+
+ votes:  NOM : 1.4285714285714282 VER : 0.5714285714285714 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('saisie', 2.268741141687118)  est un  NOM
+
+ votes:  NOM : 0.08 VER : 0.05333333333333334 ADJ : 1.0266666666666668 ONO : 0.013333333333333334 ADJ:num : 0.013333333333333334   En pouvoir de votes (total de  15  votes)
+('incertitude', 2.2786886409963194)  est un  ADJ
+
+ votes:  NOM : 1.4285714285714282 VER : 0.42857142857142855 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('embouchure', 2.2786886409963194)  est un  NOM
+
+ votes:  NOM : 4.0 VER : 9.0 ADJ : 2.0   En pouvoir de votes (total de  15  votes)
+('roche-guyon', 2.304662666970345)  est un  VER
+
+ votes:  NOM : 2.6666666666666665 VER : 1.9999999999999998 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('nogaret', 2.304662666970345)  est un  NOM
+-----------------------------------------------------------
+resultats du  19 ème centroide
+
+ votes:  NOM : 0.9230769230769229 VER : 0.07692307692307693 ADJ : 0.15384615384615385   En pouvoir de votes (total de  15  votes)
+('with', 522.4755555555555)  est un  NOM
+
+ votes:  NOM : 1.2222222222222225 VER : 0.2222222222222222 ADV : 0.1111111111111111 CON : 0.1111111111111111   En pouvoir de votes (total de  15  votes)
+('work', 528.3422222222222)  est un  NOM
+
+ votes:  NOM : 0.06748466257668712 VER : 0.012269938650306749 ADJ : 0.006134969325153374 ADV : 0.006134969325153374   En pouvoir de votes (total de  15  votes)
+('terms', 638.4755555555554)  est un  NOM
+
+ votes:  NOM : 0.02258726899383983 VER : 0.006160164271047228 ADJ : 0.002053388090349076   En pouvoir de votes (total de  15  votes)
+('and', 642.7422222222222)  est un  NOM
+
+ votes:  NOM : 0.15189873417721522 VER : 0.012658227848101266 ADJ : 0.02531645569620253   En pouvoir de votes (total de  15  votes)
+('works', 697.9422222222222)  est un  NOM
+
+ votes:  NOM : 0.9090909090909093 VER : 0.18181818181818182 ADJ : 0.09090909090909091 ADV : 0.09090909090909091 CON : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('electronic', 776.0755555555554)  est un  NOM
+
+ votes:  NOM : 0.4705882352941177 VER : 0.29411764705882354 ADJ : 0.11764705882352941   En pouvoir de votes (total de  15  votes)
+('in', 805.6755555555554)  est un  NOM
+
+ votes:  NOM : 0.2857142857142857 VER : 0.38095238095238093 ADJ : 0.047619047619047616   En pouvoir de votes (total de  15  votes)
+('to', 830.3422222222223)  est un  VER
+
+ votes:  NOM : 0.12658227848101267 VER : 0.02531645569620253 ADJ : 0.0379746835443038   En pouvoir de votes (total de  15  votes)
+('gutenberg', 1053.5422222222219)  est un  NOM
+
+ votes:  NOM : 0.09734513274336283 VER : 0.02654867256637168 ADV : 0.008849557522123894   En pouvoir de votes (total de  15  votes)
+('you', 1119.0088888888888)  est un  NOM
+-----------------------------------------------------------
+resultats du  20 ème centroide
+
+ votes:  NOM : 1.2 VER : 1.9999999999999998 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('seul', 2707.8775510204077)  est un  VER
+
+ votes:  NOM : 2.1999999999999997 VER : 0.8 ADJ : 0.8   En pouvoir de votes (total de  15  votes)
+('grand', 3087.306122448979)  est un  NOM
+
+ votes:  NOM : 1.0 VER : 0.001558846453624318 ADV : 0.0010392309690828788 ONO : 0.0002598077422707197 CON : 0.0005196154845414394 PRO:per : 0.0002598077422707197   En pouvoir de votes (total de  15  votes)
+('cheval', 4280.163265306122)  est un  NOM
+
+ votes:  NOM : 2.6666666666666665 VER : 1.9999999999999998 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('fit', 7702.448979591837)  est un  NOM
+
+ votes:  NOM : 0.180327868852459 VER : 1.0491803278688525   En pouvoir de votes (total de  15  votes)
+('coup', 7749.306122448978)  est un  VER
+-----------------------------------------------------------
+resultats du  21 ème centroide
+
+ votes:  NOM : 1.1030927835051543 VER : 0.041237113402061855   En pouvoir de votes (total de  15  votes)
+('murs', 23.293257439030032)  est un  NOM
+
+ votes:  NOM : 1.2857142857142854 VER : 0.14285714285714285 ADJ : 1.2857142857142856 ADJ:num : 0.14285714285714285 PRO:ind : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('guerres', 25.37489009209126)  est un  ADJ
+
+ votes:  NOM : 2.285714285714285 VER : 0.42857142857142855 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('intérêts', 26.150400296172894)  est un  NOM
+
+ votes:  NOM : 1.4137931034482767 VER : 0.034482758620689655 ADJ : 0.034482758620689655   En pouvoir de votes (total de  15  votes)
+('chefs', 27.606182609098063)  est un  NOM
+
+ votes:  NOM : 0.10638297872340426 VER : 1.191489361702127   En pouvoir de votes (total de  15  votes)
+('reproches', 28.014345874404178)  est un  VER
+
+ votes:  NOM : 3.666666666666667 VER : 1.6666666666666665 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('éclats', 29.687815262159287)  est un  NOM
+
+ votes:  NOM : 4.333333333333333 VER : 1.0 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('amants', 31.225230228145676)  est un  NOM
+
+ votes:  NOM : 1.714285714285714 VER : 0.857142857142857 ADJ : 0.42857142857142855   En pouvoir de votes (total de  15  votes)
+('voleurs', 31.279651996853165)  est un  NOM
+
+ votes:  NOM : 0.4 VER : 1.4 ADJ : 1.7999999999999998 ADV : 0.2   En pouvoir de votes (total de  15  votes)
+('qualités', 32.98033226896201)  est un  ADJ
+
+ votes:  VER : 3.600000000000001 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('officiers', 34.53135267712527)  est un  VER
+-----------------------------------------------------------
+resultats du  22 ème centroide
+
+ votes:  VER : 1.0765027322404372   En pouvoir de votes (total de  15  votes)
+('êtes', 8706.666666666666)  est un  VER
+-----------------------------------------------------------
+resultats du  23 ème centroide
+
+ votes:  NOM : 0.2727272727272727 VER : 0.9090909090909093 ADJ : 1.0909090909090908   En pouvoir de votes (total de  15  votes)
+('peut-être', 984.1329639889198)  est un  ADJ
+
+ votes:  NOM : 0.004830917874396135 VER : 1.06280193236715   En pouvoir de votes (total de  15  votes)
+('ainsi', 1282.7645429362879)  est un  VER
+
+ votes:  VER : 1.010827532869297   En pouvoir de votes (total de  15  votes)
+('bon', 1301.606648199446)  est un  VER
+
+ votes:  NOM : 0.12000000000000001 VER : 1.0400000000000003 ADJ : 0.02666666666666667   En pouvoir de votes (total de  15  votes)
+('messieurs', 1791.7119113573406)  est un  VER
+
+ votes:  NOM : 0.002361832782239018 VER : 0.001889466225791214 ADJ : 0.000944733112895607 ADV : 0.0004723665564478035 ONO : 0.0004723665564478035 PRO:dem : 0.0004723665564478035 PRO:per : 0.0004723665564478035   En pouvoir de votes (total de  15  votes)
+('voilà', 2200.659279778393)  est un  NOM
+
+ votes:  VER : 1.078212290502794   En pouvoir de votes (total de  15  votes)
+('cependant', 2237.7119113573403)  est un  VER
+
+ votes:  NOM : 1.4666666666666666 VER : 0.3333333333333333 ADJ : 0.13333333333333333   En pouvoir de votes (total de  15  votes)
+('planchet', 2580.1329639889195)  est un  NOM
+
+ votes:  NOM : 0.8 VER : 1.2 ADJ : 1.7999999999999998   En pouvoir de votes (total de  15  votes)
+('aussi', 2628.554016620498)  est un  ADJ
+
+ votes:  NOM : 0.0006177606177606178 VER : 0.0007722007722007723 ADJ : 0.00015444015444015445 ADV : 1.0004633204633206 ONO : 0.00015444015444015445   En pouvoir de votes (total de  15  votes)
+('dit-il', 3041.711911357341)  est un  ADV
+
+ votes:  NOM : 0.18181818181818182 VER : 0.6363636363636365 ADJ : 1.3636363636363633 ADV : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('madame', 3247.185595567867)  est un  ADJ
+-----------------------------------------------------------
+resultats du  24 ème centroide
+
+ votes:  NOM : 1.0673575129533681 VER : 0.0051813471502590676   En pouvoir de votes (total de  15  votes)
+('pris', 734.0740740740739)  est un  NOM
+
+ votes:  NOM : 1.0091393754760087 VER : 0.0015232292460015233   En pouvoir de votes (total de  15  votes)
+('donné', 812.2962962962963)  est un  NOM
+
+ votes:  NOM : 1.0 VER : 2.8000000000000003   En pouvoir de votes (total de  15  votes)
+('entendu', 862.7407407407408)  est un  VER
+
+ votes:  NOM : 0.10389610389610392 VER : 1.0649350649350644 PRE : 0.012987012987012988   En pouvoir de votes (total de  15  votes)
+('eu', 968.074074074074)  est un  VER
+
+ votes:  NOM : 0.46153846153846156 VER : 1.615384615384615   En pouvoir de votes (total de  15  votes)
+('pu', 1037.6296296296296)  est un  VER
+
+ votes:  NOM : 1.1714285714285708 VER : 0.2285714285714286   En pouvoir de votes (total de  15  votes)
+('déjà', 1432.5185185185187)  est un  NOM
+-----------------------------------------------------------
+resultats du  25 ème centroide
+
+ votes:  NOM : 1.0021569156106764 VER : 0.0008088433540037747 PRE : 0.00026961445133459155 PRO:dem : 0.00026961445133459155 PRO:pos : 0.00026961445133459155   En pouvoir de votes (total de  15  votes)
+('femmes', 598.8512110726643)  est un  NOM
+
+ votes:  NOM : 2.6 VER : 1.0 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('ordres', 772.6159169550173)  est un  NOM
+
+ votes:  NOM : 1.0 VER : 1.2 ADJ : 1.5999999999999999   En pouvoir de votes (total de  15  votes)
+('choses', 903.910034602076)  est un  ADJ
+
+ votes:  NOM : 1.2448979591836737 VER : 0.04081632653061224   En pouvoir de votes (total de  15  votes)
+('chevaux', 1012.3806228373703)  est un  NOM
+
+ votes:  NOM : 0.04065040650406505 VER : 1.0731707317073165   En pouvoir de votes (total de  15  votes)
+('laquais', 1046.4982698961937)  est un  VER
+
+ votes:  NOM : 2.0000000000000004 VER : 0.4444444444444444 ADJ : 0.1111111111111111   En pouvoir de votes (total de  15  votes)
+('lèvres', 1472.968858131488)  est un  NOM
+
+ votes:  NOM : 0.2857142857142857 VER : 2.7142857142857135   En pouvoir de votes (total de  15  votes)
+('pistoles', 1724.968858131488)  est un  VER
+
+ votes:  NOM : 0.6000000000000001 VER : 3.0000000000000004 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('autres', 1804.3806228373696)  est un  VER
+
+ votes:  NOM : 0.01935483870967742 VER : 0.04516129032258065 ADJ : 0.012903225806451613 ADV : 1.0129032258064514   En pouvoir de votes (total de  15  votes)
+('contre', 1848.7335640138413)  est un  ADV
+
+ votes:  NOM : 0.0037383177570093464 VER : 0.0031152647975077885 ADV : 0.001869158878504673 PRO:per : 1.0   En pouvoir de votes (total de  15  votes)
+('entre', 1954.0276816608998)  est un  PRO:per
+-----------------------------------------------------------
+resultats du  26 ème centroide
+
+ votes:  NOM : 0.39999999999999997 VER : 0.39999999999999997 ADJ : 0.13333333333333333 ADV : 1.0   En pouvoir de votes (total de  15  votes)
+('vois', 719.0)  est un  ADV
+
+ votes:  NOM : 0.004248088360237893 VER : 1.0059473237043333 ADV : 0.0016992353440951572   En pouvoir de votes (total de  15  votes)
+('veux', 850.8000000000002)  est un  VER
+
+ votes:  VER : 2.8571428571428563 ADJ : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('dis', 1029.4)  est un  VER
+
+ votes:  NOM : 1.7999999999999998 VER : 1.4 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('vais', 1070.2)  est un  NOM
+
+ votes:  NOM : 1.2 VER : 1.5999999999999999 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('connais', 1075.4)  est un  VER
+
+ votes:  NOM : 0.03076923076923077 VER : 1.184615384615384   En pouvoir de votes (total de  15  votes)
+('crois', 1593.4)  est un  VER
+
+ votes:  NOM : 0.0024028834601521826 VER : 0.002002402883460152 ADV : 1.000800961153384 PRO:per : 0.00040048057669203043   En pouvoir de votes (total de  15  votes)
+('sais', 2275.6000000000004)  est un  ADV
+
+ votes:  VER : 1.1134020618556697 ADJ : 0.030927835051546393   En pouvoir de votes (total de  15  votes)
+('puis', 4724.600000000001)  est un  VER
+-----------------------------------------------------------
+resultats du  27 ème centroide
+
+ votes:  NOM : 1.2857142857142854 VER : 1.4285714285714284 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('carrosse', 111.62376237623764)  est un  VER
+
+ votes:  NOM : 1.7777777777777781 VER : 0.5555555555555556 ADJ : 0.2222222222222222   En pouvoir de votes (total de  15  votes)
+('déjeuner', 140.23762376237624)  est un  NOM
+
+ votes:  NOM : 0.0005159293176834773 VER : 1.0003869469882625 ADJ : 0.0006449116471043466 ADV : 0.00012898232942086933 ONO : 0.00012898232942086933   En pouvoir de votes (total de  15  votes)
+('cavalier', 144.89108910891088)  est un  VER
+
+ votes:  NOM : 0.2857142857142857 VER : 2.7142857142857135   En pouvoir de votes (total de  15  votes)
+('caractère', 145.02970297029702)  est un  VER
+
+ votes:  NOM : 1.8888888888888893 VER : 0.3333333333333333 ADJ : 0.2222222222222222 ONO : 0.1111111111111111   En pouvoir de votes (total de  15  votes)
+('feu', 155.12871287128712)  est un  NOM
+
+ votes:  NOM : 0.12307692307692308 VER : 0.09230769230769231 ONO : 0.015384615384615385   En pouvoir de votes (total de  15  votes)
+('sac', 155.56435643564356)  est un  NOM
+
+ votes:  NOM : 1.000011202379385 VER : 5.6011896926907276e-06 PRE : 5.6011896926907276e-06 CON : 5.6011896926907276e-06 PRO:ind : 2.8005948463453638e-06 ART:def : 2.8005948463453638e-06 PRO:per : 5.6011896926907276e-06   En pouvoir de votes (total de  15  votes)
+('prix', 156.73267326732676)  est un  NOM
+
+ votes:  NOM : 1.5999999999999999 VER : 0.13333333333333333 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('billet', 159.04950495049508)  est un  NOM
+
+ votes:  NOM : 1.7999999999999998 VER : 1.9999999999999998   En pouvoir de votes (total de  15  votes)
+('fils', 171.10891089108915)  est un  VER
+
+ votes:  NOM : 0.7272727272727274 VER : 0.5454545454545455 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('conseil', 175.00990099009903)  est un  NOM
+-----------------------------------------------------------
+resultats du  28 ème centroide
+
+ votes:  NOM : 0.4 VER : 2.4 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('avons', 1177.0)  est un  VER
+-----------------------------------------------------------
+resultats du  29 ème centroide
+
+ votes:  NOM : 1.1111111111111114 VER : 1.4444444444444446   En pouvoir de votes (total de  15  votes)
+('hommes', 3003.98347107438)  est un  VER
+
+ votes:  NOM : 1.5999999999999999 VER : 1.5999999999999999 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('mains', 3125.9834710743803)  est un  NOM
+
+ votes:  NOM : 1.0992907801418426   En pouvoir de votes (total de  15  votes)
+('yeux', 3364.710743801653)  est un  NOM
+
+ votes:  NOM : 1.0529801324503314 VER : 0.013245033112582781 ADJ : 0.019867549668874173 CON : 0.006622516556291391   En pouvoir de votes (total de  15  votes)
+('mousquetaires', 3405.8016528925623)  est un  NOM
+
+ votes:  NOM : 1.00025411023302 PRE : 7.62330699057251e-05 PRO:ind : 2.5411023301908367e-05   En pouvoir de votes (total de  15  votes)
+('gardes', 3540.710743801653)  est un  NOM
+
+ votes:  NOM : 2.285714285714285 VER : 0.2857142857142857 ADJ : 0.42857142857142855   En pouvoir de votes (total de  15  votes)
+('quatre', 4278.347107438017)  est un  NOM
+
+ votes:  NOM : 0.2857142857142857 VER : 2.7142857142857135   En pouvoir de votes (total de  15  votes)
+('amis', 5018.528925619834)  est un  VER
+
+ votes:  NOM : 1.001744524132584 VER : 0.0003876720294630742 ADJ : 0.0001938360147315371 PRO:ind : 0.0003876720294630742   En pouvoir de votes (total de  15  votes)
+('trois', 5814.347107438016)  est un  NOM
+-----------------------------------------------------------
+resultats du  30 ème centroide
+
+ votes:  NOM : 7.252157516861267e-05 VER : 7.252157516861267e-05 PRE : 2.4173858389537555e-05 ADV : 9.669543355815022e-05 ONO : 2.4173858389537555e-05 CON : 2.4173858389537555e-05 PRO:per : 2.4173858389537555e-05 PRO:pos : 2.4173858389537555e-05   En pouvoir de votes (total de  15  votes)
+('monsieur', 9908.96875)  est un  ADV
+
+ votes:  NOM : 1.7272727272727266 VER : 0.2727272727272727 ADJ : 0.2727272727272727   En pouvoir de votes (total de  15  votes)
+('aramis', 19989.46875)  est un  NOM
+
+ votes:  NOM : 1.0494296577946758 VER : 0.0038022813688212928   En pouvoir de votes (total de  15  votes)
+('porthos', 24533.71875)  est un  NOM
+-----------------------------------------------------------
+resultats du  31 ème centroide
+
+ votes:  NOM : 1.7692307692307687 VER : 0.23076923076923078 ADJ : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('voulait', 602.2140309155768)  est un  NOM
+
+ votes:  NOM : 1.1333333333333333 VER : 0.7999999999999999   En pouvoir de votes (total de  15  votes)
+('devait', 617.7312722948872)  est un  NOM
+
+ votes:  NOM : 1.5714285714285712 VER : 0.9999999999999998 ADJ : 0.42857142857142855   En pouvoir de votes (total de  15  votes)
+('savait', 619.0416171224732)  est un  NOM
+
+ votes:  NOM : 0.7142857142857142 VER : 1.1428571428571426 ADJ : 0.14285714285714285 ADV : 1.0   En pouvoir de votes (total de  15  votes)
+('tenait', 626.4898929845422)  est un  VER
+
+ votes:  NOM : 0.6000000000000001 VER : 2.1999999999999997 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('va', 678.9036860879904)  est un  VER
+
+ votes:  NOM : 0.0008164931618697694 VER : 0.00020412329046744235 ADV : 1.00081649316187 ONO : 0.0004082465809348847 CON : 0.0004082465809348847 PRO:per : 0.00020412329046744235   En pouvoir de votes (total de  15  votes)
+('vit', 704.7657550535076)  est un  ADV
+
+ votes:  NOM : 0.0016298020954598372 VER : 1.0011641443539 PRO:ind : 0.00046565774155995343   En pouvoir de votes (total de  15  votes)
+('aussitôt', 746.2140309155768)  est un  VER
+
+ votes:  NOM : 1.2941176470588236 VER : 0.4705882352941177 ADJ : 0.058823529411764705   En pouvoir de votes (total de  15  votes)
+('eut', 752.0071343638525)  est un  NOM
+
+ votes:  NOM : 0.005698005698005698 VER : 1.031339031339032 ADJ : 0.002849002849002849   En pouvoir de votes (total de  15  votes)
+('allait', 800.6967895362664)  est un  VER
+
+ votes:  NOM : 0.10256410256410256 VER : 0.17948717948717946 ADJ : 0.07692307692307693 PRO:ind : 1.0   En pouvoir de votes (total de  15  votes)
+('faisait', 821.0416171224732)  est un  PRO:ind
+-----------------------------------------------------------
+resultats du  32 ème centroide
+-----------------------------------------------------------
+resultats du  33 ème centroide
+
+ votes:  NOM : 0.0851063829787234 VER : 1.1063829787234039 ADJ : 0.10638297872340426   En pouvoir de votes (total de  15  votes)
+('ordre', 1478.3125)  est un  VER
+
+ votes:  NOM : 0.0009902390720045269 VER : 1.0002829254491443 ADV : 0.0005658508982883011 PRO:per : 0.00014146272457207527   En pouvoir de votes (total de  15  votes)
+('honneur', 1550.3125)  est un  VER
+
+ votes:  NOM : 1.0094466936572193 VER : 0.004048582995951417 ADJ : 0.005398110661268556   En pouvoir de votes (total de  15  votes)
+('hôtel', 1707.3125)  est un  NOM
+
+ votes:  NOM : 1.0388692579505303 VER : 0.010600706713780918   En pouvoir de votes (total de  15  votes)
+('hôte', 2034.0625)  est un  NOM
+
+ votes:  NOM : 0.38461538461538464 VER : 0.6923076923076923 ADJ : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('épée', 5376.0625)  est un  VER
+
+ votes:  NOM : 0.0006002761270184285 VER : 1.0001200552254037 PRE : 6.002761270184285e-05 PRO:ind : 6.002761270184285e-05   En pouvoir de votes (total de  15  votes)
+('heure', 5886.5625)  est un  VER
+-----------------------------------------------------------
+resultats du  34 ème centroide
+-----------------------------------------------------------
+resultats du  35 ème centroide
+
+ votes:  NOM : 2.8000000000000003 VER : 1.0   En pouvoir de votes (total de  15  votes)
+('débandade', 2.9858397930607325)  est un  NOM
+
+ votes:  NOM : 1.3333333333333333 VER : 4.333333333333333   En pouvoir de votes (total de  15  votes)
+('pendirent', 3.060108798908686)  est un  VER
+
+ votes:  NOM : 0.6000000000000001 VER : 2.1999999999999997 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('demi-triomphe', 3.060108798908686)  est un  VER
+
+ votes:  NOM : 2.6666666666666665 VER : 1.9999999999999998 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('paie?', 3.1279450562186275)  est un  NOM
+
+ votes:  NOM : 2.1999999999999997 VER : 0.8 ADJ : 0.8   En pouvoir de votes (total de  15  votes)
+('anglais?', 3.1394460308774965)  est un  NOM
+
+ votes:  NOM : 1.5999999999999999 VER : 0.6000000000000001 ADJ : 0.8   En pouvoir de votes (total de  15  votes)
+('conduisais', 3.1554304363355863)  est un  NOM
+
+ votes:  NOM : 0.2 VER : 3.400000000000001 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('savez?', 3.1799918398443583)  est un  VER
+
+ votes:  NOM : 0.1111111111111111 VER : 0.2222222222222222 ADJ : 0.18518518518518517 ADV : 1.0   En pouvoir de votes (total de  15  votes)
+('tilleul', 3.195781313528569)  est un  ADV
+
+ votes:  NOM : 1.0 VER : 3.666666666666667 ADJ : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('repentir?', 3.2008495396494268)  est un  VER
+
+ votes:  NOM : 0.18181818181818182 VER : 1.7272727272727266 ADJ : 0.36363636363636365   En pouvoir de votes (total de  15  votes)
+('félicite', 3.2217072394544948)  est un  VER
+-----------------------------------------------------------
+resultats du  36 ème centroide
+
+ votes:  NOM : 7.708614376565812e-05 VER : 7.708614376565812e-05 PRE : 1.0000385430718828 ADV : 0.0001927153594141453 ONO : 3.854307188282906e-05 CON : 7.708614376565812e-05 PRO:rel : 3.854307188282906e-05   En pouvoir de votes (total de  15  votes)
+('comment', 3186.592592592593)  est un  PRE
+
+ votes:  NOM : 2.1999999999999997 VER : 0.2 ADJ : 1.4   En pouvoir de votes (total de  15  votes)
+('monseigneur', 3286.37037037037)  est un  NOM
+
+ votes:  NOM : 0.6666666666666666 VER : 1.2 ADJ : 0.06666666666666667   En pouvoir de votes (total de  15  votes)
+('oh', 6004.148148148149)  est un  VER
+
+ votes:  NOM : 1.0320987654320983 VER : 0.0024691358024691358   En pouvoir de votes (total de  15  votes)
+('non', 10449.925925925925)  est un  NOM
+
+ votes:  NOM : 0.2727272727272727 VER : 1.9999999999999991   En pouvoir de votes (total de  15  votes)
+('dieu', 13973.481481481478)  est un  VER
+
+ votes:  NOM : 1.088495575221239 VER : 0.02654867256637168 ADJ : 0.008849557522123894   En pouvoir de votes (total de  15  votes)
+('cher', 16799.037037037036)  est un  NOM
+-----------------------------------------------------------
+resultats du  37 ème centroide
+
+ votes:  VER : 1.3076923076923066 ADJ : 0.05128205128205128   En pouvoir de votes (total de  15  votes)
+('comprenez', 175.94135802469134)  est un  VER
+
+ votes:  NOM : 1.714285714285714 VER : 0.7142857142857142 ADJ : 0.5714285714285714   En pouvoir de votes (total de  15  votes)
+('croyez', 198.33024691358028)  est un  NOM
+
+ votes:  VER : 1.2222222222222214   En pouvoir de votes (total de  15  votes)
+('voudrez', 257.21913580246917)  est un  VER
+
+ votes:  NOM : 0.06153846153846154 VER : 1.1076923076923073 ADJ : 0.015384615384615385 PRE : 0.03076923076923077   En pouvoir de votes (total de  15  votes)
+('connaissez', 261.8858024691358)  est un  VER
+
+ votes:  NOM : 0.03428571428571429 VER : 1.0114285714285716 ADJ : 0.03428571428571429   En pouvoir de votes (total de  15  votes)
+('aviez', 266.4413580246913)  est un  VER
+
+ votes:  NOM : 1.0 VER : 1.2 ADJ : 1.5999999999999999   En pouvoir de votes (total de  15  votes)
+('serez', 269.0524691358025)  est un  ADJ
+
+ votes:  NOM : 1.0362694300518136 VER : 0.036269430051813475   En pouvoir de votes (total de  15  votes)
+('aurez', 276.3302469135802)  est un  NOM
+
+ votes:  NOM : 0.016920473773265648 VER : 1.003384094754653 ADJ : 0.00338409475465313   En pouvoir de votes (total de  15  votes)
+('devez', 286.6080246913581)  est un  VER
+
+ votes:  NOM : 0.02605863192182411 VER : 1.019543973941368   En pouvoir de votes (total de  15  votes)
+('venez', 292.9413580246914)  est un  VER
+
+ votes:  NOM : 0.0003920031360250882 VER : 1.004704037632302 PRO:per : 0.0003920031360250882   En pouvoir de votes (total de  15  votes)
+('puisque', 300.10802469135797)  est un  VER
+-----------------------------------------------------------
+resultats du  38 ème centroide
+-----------------------------------------------------------
+resultats du  39 ème centroide
+-----------------------------------------------------------
+resultats du  40 ème centroide
+-----------------------------------------------------------
+resultats du  41 ème centroide
+
+ votes:  NOM : 0.4666666666666666 VER : 1.3333333333333333 ADJ : 0.13333333333333333   En pouvoir de votes (total de  15  votes)
+('au-dessus', 174.15795001050202)  est un  VER
+
+ votes:  NOM : 0.7272727272727274 VER : 0.5454545454545455 ADJ : 0.09090909090909091   En pouvoir de votes (total de  15  votes)
+('meung', 209.28838479311074)  est un  NOM
+
+ votes:  NOM : 1.2857142857142854 VER : 1.5714285714285712 ADJ : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('terreur', 214.09997899600927)  est un  VER
+
+ votes:  NOM : 0.46153846153846156 VER : 0.3076923076923077 ADJ : 0.3076923076923077 ADJ:num : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('famille', 236.8825876916614)  est un  NOM
+
+ votes:  NOM : 1.0025486983433463   En pouvoir de votes (total de  15  votes)
+('robe', 239.3753413148499)  est un  NOM
+
+ votes:  NOM : 0.006359300476947536 VER : 0.012718600953895072 ADV : 0.003179650238473768 PRO:rel : 1.0   En pouvoir de votes (total de  15  votes)
+('afin', 251.4333123293426)  est un  PRO:rel
+
+ votes:  NOM : 4.0 VER : 1.3333333333333333 PRO:per : 0.3333333333333333   En pouvoir de votes (total de  15  votes)
+('affaires', 253.46229783658896)  est un  NOM
+
+ votes:  NOM : 1.571428571428571 VER : 1.2857142857142856 ADJ : 0.14285714285714285   En pouvoir de votes (total de  15  votes)
+('rire', 254.24490653224112)  est un  NOM
+
+ votes:  NOM : 2.1428571428571423 VER : 0.5714285714285714 ADJ : 0.2857142857142857   En pouvoir de votes (total de  15  votes)
+('confiance', 254.53476160470487)  est un  NOM
+
+ votes:  NOM : 0.4545454545454546 VER : 1.3636363636363633 ADJ : 0.4545454545454546   En pouvoir de votes (total de  15  votes)
+('douleur', 255.05650073513968)  est un  VER
+-----------------------------------------------------------
+resultats du  42 ème centroide
+
+ votes:  NOM : 1.4400000000000004 VER : 0.12   En pouvoir de votes (total de  15  votes)
+('lieu', 671.1851851851852)  est un  NOM
+
+ votes:  NOM : 0.04 VER : 1.5200000000000005   En pouvoir de votes (total de  15  votes)
+('milieu', 908.7407407407406)  est un  VER
+
+ votes:  NOM : 1.4736842105263153 VER : 0.21052631578947367 ADJ : 0.05263157894736842   En pouvoir de votes (total de  15  votes)
+('reste', 1090.296296296296)  est un  NOM
+
+ votes:  NOM : 0.02564102564102564 VER : 1.282051282051281 ADJ : 0.05128205128205128   En pouvoir de votes (total de  15  votes)
+('fond', 1125.6296296296296)  est un  VER
+
+ votes:  NOM : 1.1157894736842109 VER : 0.031578947368421054   En pouvoir de votes (total de  15  votes)
+('louvre', 1137.1851851851852)  est un  NOM
+
+ votes:  NOM : 0.5384615384615385 VER : 0.15384615384615385 ADJ : 1.3846153846153844   En pouvoir de votes (total de  15  votes)
+('contraire', 1201.6296296296296)  est un  ADJ
+
+ votes:  NOM : 1.15068493150685 VER : 0.0410958904109589   En pouvoir de votes (total de  15  votes)
+('bout', 2126.962962962963)  est un  NOM
+-----------------------------------------------------------
+resultats du  43 ème centroide
+-----------------------------------------------------------
+resultats du  44 ème centroide
+-----------------------------------------------------------
+resultats du  45 ème centroide
+
+ votes:  NOM : 1.9999999999999998 VER : 1.4 ADJ : 0.4   En pouvoir de votes (total de  15  votes)
+('felton', 5832.959183673469)  est un  NOM
+
+ votes:  NOM : 1.6190476190476197 ADJ : 0.047619047619047616   En pouvoir de votes (total de  15  votes)
+('encore', 5896.244897959183)  est un  NOM
+
+ votes:  NOM : 1.0159362549800797 VER : 0.0026560424966799467   En pouvoir de votes (total de  15  votes)
+('dire', 8573.95918367347)  est un  NOM
+
+ votes:  NOM : 1.0428015564202333 VER : 0.011673151750972763   En pouvoir de votes (total de  15  votes)
+('rien', 9318.387755102043)  est un  NOM
+
+ votes:  NOM : 0.38461538461538464 VER : 0.5384615384615385 ADJ : 1.1538461538461537   En pouvoir de votes (total de  15  votes)
+('cela', 9651.530612244898)  est un  ADJ
+
+ votes:  NOM : 0.5294117647058824 VER : 1.2941176470588236   En pouvoir de votes (total de  15  votes)
+('temps', 11831.959183673467)  est un  VER
+
+ votes:  NOM : 1.0828025477707006 VER : 0.006369426751592357   En pouvoir de votes (total de  15  votes)
+('point', 12282.10204081633)  est un  NOM
+
+ votes:  NOM : 0.08270676691729323 VER : 0.022556390977443608 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('fait', 15612.244897959185)  est un  ADJ
+-----------------------------------------------------------
+resultats du  46 ème centroide
+
+ votes:  NOM : 1.0797546012269934 VER : 0.006134969325153374   En pouvoir de votes (total de  15  votes)
+('toute', 2909.625)  est un  NOM
+
+ votes:  NOM : 0.6666666666666667 VER : 0.4444444444444444 ADJ : 0.5555555555555556   En pouvoir de votes (total de  15  votes)
+('lettre', 3425.875)  est un  NOM
+
+ votes:  NOM : 0.010935601458080193 VER : 1.0012150668286757 PRE : 0.002430133657351154 ADV : 0.002430133657351154   En pouvoir de votes (total de  15  votes)
+('voix', 4682.375)  est un  VER
+
+ votes:  NOM : 0.47368421052631576 VER : 1.2105263157894735 ADJ : 0.05263157894736842   En pouvoir de votes (total de  15  votes)
+('rue', 4731.375)  est un  VER
+
+ votes:  NOM : 1.0145137880986934 VER : 0.005805515239477504   En pouvoir de votes (total de  15  votes)
+('tête', 4849.125)  est un  NOM
+
+ votes:  NOM : 0.3684210526315789 VER : 0.2631578947368421 ADJ : 1.1052631578947367   En pouvoir de votes (total de  15  votes)
+('chambre', 5377.625)  est un  ADJ
+
+ votes:  NOM : 0.6666666666666666 VER : 4.333333333333333 ADJ : 0.6666666666666666   En pouvoir de votes (total de  15  votes)
+('chose', 8252.125)  est un  VER
+-----------------------------------------------------------
+resultats du  47 ème centroide
+
+ votes:  NOM : 1.00123890150733 VER : 0.0010324179227751394 PRE : 0.00041296716911005574 PRO:per : 0.00020648358455502787   En pouvoir de votes (total de  15  votes)
+('faire', 13320.271604938274)  est un  NOM
+
+ votes:  NOM : 0.38461538461538464 VER : 0.23076923076923078 ADJ : 0.46153846153846156 ADV : 0.07692307692307693   En pouvoir de votes (total de  15  votes)
+('milady', 24796.49382716049)  est un  ADJ
+
+ votes:  NOM : 0.6153846153846154 VER : 0.5384615384615385   En pouvoir de votes (total de  15  votes)
+('winter', 24902.049382716046)  est un  NOM
+
+ votes:  NOM : 1.0339943342776197 PRO:pos : 0.0056657223796034   En pouvoir de votes (total de  15  votes)
+('lord', 25902.938271604933)  est un  NOM
+
+ votes:  NOM : 0.1764705882352941 VER : 1.411764705882353 ADJ : 0.11764705882352941 ADV : 0.11764705882352941   En pouvoir de votes (total de  15  votes)
+('mme', 42140.493827160506)  est un  VER
+-----------------------------------------------------------
+resultats du  48 ème centroide
+
+ votes:  NOM : 0.3333333333333333 VER : 1.1111111111111114 ADV : 1.1111111111111112   En pouvoir de votes (total de  15  votes)
+('partir', 266.89322916666663)  est un  VER
+
+ votes:  NOM : 1.3030303030303028 VER : 0.06060606060606061 ADJ : 0.06060606060606061   En pouvoir de votes (total de  15  votes)
+('propos', 278.8515625)  est un  NOM
+
+ votes:  NOM : 3.400000000000001 VER : 0.2 ADJ : 0.2   En pouvoir de votes (total de  15  votes)
+('craindre', 322.8098958333333)  est un  NOM
+
+ votes:  NOM : 1.2444444444444436 VER : 0.06666666666666667   En pouvoir de votes (total de  15  votes)
+('laisser', 322.93489583333337)  est un  NOM
+
+ votes:  NOM : 0.0035842293906810036 VER : 0.025089605734767022 ADV : 0.007168458781362007 ONO : 1.0071684587813619 ADJ:int : 0.0035842293906810036 PRO:per : 0.0035842293906810036   En pouvoir de votes (total de  15  votes)
+('demander', 369.1848958333334)  est un  ONO
+
+ votes:  NOM : 0.048458149779735685 VER : 1.013215859030837   En pouvoir de votes (total de  15  votes)
+('arriver', 387.01822916666663)  est un  VER
+
+ votes:  NOM : 1.2564102564102555 VER : 0.07692307692307693 ADJ : 0.02564102564102564   En pouvoir de votes (total de  15  votes)
+('mettre', 394.2265625)  est un  NOM
+
+ votes:  NOM : 1.0005443658138269 VER : 0.0054436581382689185 ADJ : 0.0010887316276537834 CON : 0.0005443658138268917   En pouvoir de votes (total de  15  votes)
+('perdre', 409.97656249999994)  est un  NOM
+
+ votes:  NOM : 0.8 VER : 1.5999999999999999 ADJ : 0.6000000000000001   En pouvoir de votes (total de  15  votes)
+('londres', 438.3932291666666)  est un  VER
+
+ votes:  NOM : 1.001390337156761 VER : 0.0003475842891901286 ADJ : 0.0010427528675703858 ADV : 0.0013903371567605145 ONO : 0.0003475842891901286 PRO:dem : 0.0003475842891901286   En pouvoir de votes (total de  15  votes)
+('vingt', 445.39322916666663)  est un  NOM
+-----------------------------------------------------------
+resultats du  49 ème centroide
+-----------------------------------------------------------
+resultats du  50 ème centroide
+
+ votes:  NOM : 1.006326253953909   En pouvoir de votes (total de  15  votes)
+('main', 6236.25)  est un  NOM
+
+ votes:  NOM : 1.6666666666666665 VER : 3.0 ADJ : 1.0   En pouvoir de votes (total de  15  votes)
+('reine', 6507.25)  est un  VER
+
+ votes:  NOM : 0.846153846153846 VER : 0.3076923076923077   En pouvoir de votes (total de  15  votes)
+('porte', 16473.75)  est un  NOM

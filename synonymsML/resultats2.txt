@@ -1,0 +1,214 @@
+['5', '10', '', ['viande', 'feu', 'fils', 'chat']]
+iteration # 1
+nombres de points dans centroid  1 :  12784.0
+nombres de points dans centroid  2 :  250.0
+nombres de points dans centroid  3 :  272.0
+nombres de points dans centroid  4 :  14731.0
+0 dans cette iteration
+9.638841152191162 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 2
+nombres de points dans centroid  1 :  6699.0
+nombres de points dans centroid  2 :  92.0
+nombres de points dans centroid  3 :  467.0
+nombres de points dans centroid  4 :  20779.0
+8929 dans cette iteration
+8.106889963150024 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 3
+nombres de points dans centroid  1 :  4419.0
+nombres de points dans centroid  2 :  54.0
+nombres de points dans centroid  3 :  422.0
+nombres de points dans centroid  4 :  23142.0
+2496 dans cette iteration
+7.798034429550171 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 4
+nombres de points dans centroid  1 :  3245.0
+nombres de points dans centroid  2 :  38.0
+nombres de points dans centroid  3 :  313.0
+nombres de points dans centroid  4 :  24441.0
+1440 dans cette iteration
+8.360971927642822 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 5
+nombres de points dans centroid  1 :  2431.0
+nombres de points dans centroid  2 :  32.0
+nombres de points dans centroid  3 :  205.0
+nombres de points dans centroid  4 :  25369.0
+1048 dans cette iteration
+8.06293773651123 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 6
+nombres de points dans centroid  1 :  1774.0
+nombres de points dans centroid  2 :  28.0
+nombres de points dans centroid  3 :  145.0
+nombres de points dans centroid  4 :  26090.0
+789 dans cette iteration
+8.121516466140747 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 7
+nombres de points dans centroid  1 :  1325.0
+nombres de points dans centroid  2 :  24.0
+nombres de points dans centroid  3 :  100.0
+nombres de points dans centroid  4 :  26588.0
+551 dans cette iteration
+7.931059122085571 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 8
+nombres de points dans centroid  1 :  992.0
+nombres de points dans centroid  2 :  20.0
+nombres de points dans centroid  3 :  73.0
+nombres de points dans centroid  4 :  26952.0
+399 dans cette iteration
+8.11020541191101 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 9
+nombres de points dans centroid  1 :  749.0
+nombres de points dans centroid  2 :  16.0
+nombres de points dans centroid  3 :  62.0
+nombres de points dans centroid  4 :  27210.0
+277 dans cette iteration
+7.86813759803772 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 10
+nombres de points dans centroid  1 :  571.0
+nombres de points dans centroid  2 :  15.0
+nombres de points dans centroid  3 :  53.0
+nombres de points dans centroid  4 :  27398.0
+199 dans cette iteration
+8.17947793006897 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 11
+nombres de points dans centroid  1 :  434.0
+nombres de points dans centroid  2 :  14.0
+nombres de points dans centroid  3 :  48.0
+nombres de points dans centroid  4 :  27541.0
+150 dans cette iteration
+8.325216054916382 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 12
+nombres de points dans centroid  1 :  361.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  43.0
+nombres de points dans centroid  4 :  27620.0
+86 dans cette iteration
+8.150105476379395 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 13
+nombres de points dans centroid  1 :  300.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  42.0
+nombres de points dans centroid  4 :  27682.0
+63 dans cette iteration
+8.394829750061035 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 14
+nombres de points dans centroid  1 :  267.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  41.0
+nombres de points dans centroid  4 :  27716.0
+35 dans cette iteration
+7.990852355957031 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 15
+nombres de points dans centroid  1 :  241.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  40.0
+nombres de points dans centroid  4 :  27743.0
+28 dans cette iteration
+8.516261100769043 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 16
+nombres de points dans centroid  1 :  224.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  38.0
+nombres de points dans centroid  4 :  27762.0
+21 dans cette iteration
+8.291451454162598 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 17
+nombres de points dans centroid  1 :  203.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27784.0
+23 dans cette iteration
+8.19361662864685 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 18
+nombres de points dans centroid  1 :  182.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27805.0
+21 dans cette iteration
+7.785968542098999 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 19
+nombres de points dans centroid  1 :  163.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27824.0
+19 dans cette iteration
+8.472733736038208 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 20
+nombres de points dans centroid  1 :  156.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27831.0
+7 dans cette iteration
+8.106691837310791 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 21
+nombres de points dans centroid  1 :  151.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27836.0
+5 dans cette iteration
+7.963469982147217 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 22
+nombres de points dans centroid  1 :  148.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27839.0
+3 dans cette iteration
+8.177020788192749 secondes pour cette iteration
+--------------------------------------------------------
+iteration # 23
+nombres de points dans centroid  1 :  148.0
+nombres de points dans centroid  2 :  13.0
+nombres de points dans centroid  3 :  37.0
+nombres de points dans centroid  4 :  27839.0
+clustering finished
+3 dans cette iteration
+8.269354820251465 secondes pour cette iteration
+--------------------------------------------------------
+-----------------------------------------------------------
+resultats du  1 er centroide
+êtes
+étienne
+épée
+éminence
+écria
+yeux
+winter
+voix
+voir
+vie
+-----------------------------------------------------------
+resultats du  2 er centroide
+-----------------------------------------------------------
+resultats du  3 er centroide
+-----------------------------------------------------------
+resultats du  4 er centroide
+ôté
+ôtiez
+ôtez
+ôter
+ôte
+ôtant
+ôtait
+ôtaient
+ôta
+ô
